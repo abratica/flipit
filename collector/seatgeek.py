@@ -55,8 +55,13 @@ def _query(api, cid, secret, state, start, end, page):
     return api.request(BASE, params)
 
 
+SAMPLES = []
+
+
 def _add(data, out):
     for ev in data.get("events") or []:
+        if len(SAMPLES) < 2:
+            SAMPLES.append(ev)
         if ev.get("datetime_local"):
             row = parse(ev)
             out[row["sg_id"]] = row

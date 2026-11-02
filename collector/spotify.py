@@ -30,7 +30,11 @@ class Spotify:
         self._auth()
         return self.api.request(API + path, params, headers={"Authorization": f"Bearer {self.token}"})
 
+    SAMPLES = []
+
     def _record(self, a):
+        if len(Spotify.SAMPLES) < 1:
+            Spotify.SAMPLES.append(a)
         followers = (a.get("followers") or {}).get("total")
         popularity = a.get("popularity")
         if followers is None and popularity is None:

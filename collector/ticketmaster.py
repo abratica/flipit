@@ -81,8 +81,13 @@ def _query(api, key, state, start, end, page):
     })
 
 
+SAMPLES = []
+
+
 def _add(data, out):
     for ev in ((data.get("_embedded") or {}).get("events") or []):
+        if len(SAMPLES) < 3 and ev.get("priceRanges") is None:
+            SAMPLES.append(ev)
         row = parse(ev)
         if row:
             out[row["tm_id"]] = row

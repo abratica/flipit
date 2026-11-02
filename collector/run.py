@@ -81,6 +81,11 @@ def main():
 
     b = score.run(store, today_rows, health, today)
     summary(b, test)
+    if test:
+        for label, samples in (("ticketmaster event without priceRanges", ticketmaster.SAMPLES),
+                               ("seatgeek event", seatgeek.SAMPLES), ("spotify artist", spotify.Spotify.SAMPLES)):
+            for ev in samples:
+                log(f"SAMPLE {label}: " + json.dumps(ev)[:6000])
     if not health["ok"]:
         sys.exit(1)
 
