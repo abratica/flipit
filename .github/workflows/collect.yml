@@ -1,0 +1,62 @@
+name: Daily collect
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 6:00 a.m. Eastern (standard time); GitHub schedules in UTC and can start a few minutes late
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = nationwide and saved; test = Massachusetts only, not saved"
+        type: choice
+        options: [full, test]
+        default: test
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      FLIPIT_MODE: ${{ github.event_name == 'schedule' && 'full' || inputs.mode }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect
+        env:
+          TM_KEY: ${{ secrets.TM_KEY }}
+          SEATGEEK_ID: ${{ secrets.SEATGEEK_ID }}
+          SEATGEEK_SECRET: ${{ secrets.SEATGEEK_SECRET }}
+          SPOTIFY_ID: ${{ secrets.SPOTIFY_ID }}
+          SPOTIFY_SECRET: ${{ secrets.SPOTIFY_SECRET }}
+        run: python -m collector.run
+
+      # Saves whatever was collected even if a source failed; the failed step still marks
+      # the run red, and GitHub emails the repo owner about failed scheduled runs.
+      - name: Save data
+        if: always() && env.FLIPIT_MODE == 'full'
+        run: |
+          git config user.name "flipit-bot"
+          git config user.email "flipit-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "data: $(TZ=America/New_York date +%F)"
+          git pull --rebase
+          git push
+
+      - name: Keep test output
+        if: always() && env.FLIPIT_MODE == 'test'
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-data
+          path: data_test
+          retention-days: 7
