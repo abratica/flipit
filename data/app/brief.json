@@ -1,57 +1,18 @@
 {
- "generated_at": "2026-11-07T18:20:26.593809+00:00",
- "date": "2026-11-07",
- "days_collected": 6,
+ "generated_at": "2026-11-08T18:34:05.648582+00:00",
+ "date": "2026-11-08",
+ "days_collected": 7,
  "breakeven_markup": 1.41,
  "tracking": {
-  "upcoming_shows": 34470,
-  "venues": 3861,
-  "artists": 9831,
-  "new_shows_today": 3089,
-  "new_venues_today": 196,
+  "upcoming_shows": 33667,
+  "venues": 3885,
+  "artists": 9875,
+  "new_shows_today": 273,
+  "new_venues_today": 24,
   "shows_with_resale_data": 0,
   "completed_shows_scored": 0
  },
  "onsales_this_week": [
-  {
-   "show": "15th Annual David Boobie",
-   "artist": "Niki Luparelli",
-   "venue": "Crystal Ballroom at Somerville Theatre",
-   "city": "Somerville",
-   "state": "MA",
-   "date": "2026-11-28",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/15th-annual-david-boobie-somerville-massachusetts-11-28-2026/event/01006566A0B3AB64",
-   "onsale_at": "2026-11-07T19:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 2.0
-  },
-  {
-   "show": "15th Annual David Boobie",
-   "artist": "Niki Luparelli",
-   "venue": "Crystal Ballroom at Somerville Theatre",
-   "city": "Somerville",
-   "state": "MA",
-   "date": "2026-11-27",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/15th-annual-david-boobie-somerville-massachusetts-11-27-2026/event/01006566A0B1AB60",
-   "onsale_at": "2026-11-07T19:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 2.0
-  },
-  {
-   "show": "SMASH disco~glam~metal~punk-hiphop",
-   "artist": "SMASH disco~glam~metal~punk-hiphop",
-   "venue": "Dante's",
-   "city": "Portland",
-   "state": "OR",
-   "date": "2026-11-21",
-   "face_min": 1.05,
-   "url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052834",
-   "onsale_at": "2026-11-08T07:30:00Z",
-   "spotify_followers": null,
-   "city_dates": 4.0
-  },
   {
    "show": "XEEM: Live in Atlanta",
    "artist": "XEEM: Live in Atlanta",
@@ -74,6 +35,19 @@
    "date": "2027-01-02",
    "face_min": null,
    "url": "https://www.ticketmaster.com/toure-hood-poetry-2-live-in-new-york-new-york-01-02-2027/event/00006565A13A77C9",
+   "onsale_at": "2026-11-09T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME  THE MAX!!!~",
+   "artist": "FLOW",
+   "venue": "Howard Theatre",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-02-14",
+   "face_min": 61.61,
+   "url": "https://www.ticketweb.com/event/flow-world-tour-2027-once-howard-theatre-tickets/14424874",
    "onsale_at": "2026-11-09T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -118,6 +92,19 @@
    "city_dates": 1.0
   },
   {
+   "show": "Russo & Co",
+   "artist": "Russo & Co",
+   "venue": "Ameristar Casino Resort Spa St. Charles",
+   "city": "Saint Charles",
+   "state": "MO",
+   "date": "2026-12-31",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/russo-co-saint-charles-missouri-12-31-2026/event/0600655CAA6D79F2",
+   "onsale_at": "2026-11-09T17:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
    "show": "Open Mic Performer Sign-Ups",
    "artist": "Open Mic Performer Sign-Ups",
    "venue": "The Bluebird Cafe",
@@ -144,6 +131,19 @@
    "city_dates": 1.0
   },
   {
+   "show": "Los Parras",
+   "artist": "Los Parras",
+   "venue": "Morongo Casino Resort and Spa",
+   "city": "Cabazon",
+   "state": "CA",
+   "date": "2027-03-12",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/los-parras-cabazon-california-03-12-2027/event/0900653DD381FCB1",
+   "onsale_at": "2026-11-09T18:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
    "show": "Hudson Freeman",
    "artist": "Hudson Freeman",
    "venue": "The Independent",
@@ -152,6 +152,19 @@
    "date": "2027-03-27",
    "face_min": null,
    "url": "https://www.ticketweb.com/event/hudson-freeman-the-independent-tickets/14414224",
+   "onsale_at": "2026-11-09T18:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "Frankie J and Amanda Perez",
+   "artist": "Frankie J",
+   "venue": "Morongo Casino Resort and Spa",
+   "city": "Cabazon",
+   "state": "CA",
+   "date": "2027-03-13",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/frankie-j-and-amanda-perez-cabazon-california-03-13-2027/event/09006524F1052696",
    "onsale_at": "2026-11-09T18:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -185,25 +198,12 @@
   {
    "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME THE MAX!!!~",
    "artist": "FLOW",
-   "venue": "The Masquerade - Heaven",
-   "city": "Atlanta",
-   "state": "GA",
-   "date": "2027-02-17",
+   "venue": "Palladium Times Square ",
+   "city": "New York City",
+   "state": "NY",
+   "date": "2027-02-13",
    "face_min": null,
-   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-atlanta-georgia-02-17-2027/event/0E00656693F3A198",
-   "onsale_at": "2026-11-10T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME  THE MAX!!!~",
-   "artist": "FLOW",
-   "venue": "Howard Theatre",
-   "city": "Washington",
-   "state": "DC",
-   "date": "2027-02-14",
-   "face_min": 61.61,
-   "url": "https://www.ticketweb.com/event/flow-world-tour-2027-once-howard-theatre-tickets/14424874",
+   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-new-york-city-new-york-02-13-2027/event/00006564FFEF426C",
    "onsale_at": "2026-11-10T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -217,32 +217,6 @@
    "date": "2027-04-29",
    "face_min": null,
    "url": "https://www.ticketweb.com/event/midnight-generation-howard-theatre-tickets/14420914",
-   "onsale_at": "2026-11-10T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "Two Lanes",
-   "artist": "Two Lanes",
-   "venue": "Warsaw",
-   "city": "Brooklyn",
-   "state": "NY",
-   "date": "2027-03-13",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/two-lanes-brooklyn-new-york-03-13-2027/event/0000655DF444246A",
-   "onsale_at": "2026-11-10T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME THE MAX!!!~",
-   "artist": "FLOW",
-   "venue": "Palladium Times Square ",
-   "city": "New York City",
-   "state": "NY",
-   "date": "2027-02-13",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-new-york-city-new-york-02-13-2027/event/00006564FFEF426C",
    "onsale_at": "2026-11-10T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -263,13 +237,26 @@
   {
    "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME THE MAX!!!~",
    "artist": "FLOW",
-   "venue": "House of Blues Houston",
-   "city": "Houston",
-   "state": "TX",
-   "date": "2027-02-26",
+   "venue": "The Masquerade - Heaven",
+   "city": "Atlanta",
+   "state": "GA",
+   "date": "2027-02-17",
    "face_min": null,
-   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-houston-texas-02-26-2027/event/3A006564A4B061BF",
-   "onsale_at": "2026-11-10T16:00:00Z",
+   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-atlanta-georgia-02-17-2027/event/0E00656693F3A198",
+   "onsale_at": "2026-11-10T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "Two Lanes",
+   "artist": "Two Lanes",
+   "venue": "Warsaw",
+   "city": "Brooklyn",
+   "state": "NY",
+   "date": "2027-03-13",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/two-lanes-brooklyn-new-york-03-13-2027/event/0000655DF444246A",
+   "onsale_at": "2026-11-10T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
   },
@@ -282,6 +269,19 @@
    "date": "2027-02-22",
    "face_min": null,
    "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-new-orleans-louisiana-02-22-2027/event/1B006564F6653DF0",
+   "onsale_at": "2026-11-10T16:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "FLOW WORLD TOUR 2027 \"ONCE IN A CENTURY\" ~ANIME THE MAX!!!~",
+   "artist": "FLOW",
+   "venue": "House of Blues Houston",
+   "city": "Houston",
+   "state": "TX",
+   "date": "2027-02-26",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/flow-world-tour-2027-once-in-houston-texas-02-26-2027/event/3A006564A4B061BF",
    "onsale_at": "2026-11-10T16:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -339,40 +339,14 @@
    "city_dates": 1.0
   },
   {
-   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
-   "artist": "Feid",
-   "venue": "Gas South Arena",
-   "city": "Duluth",
-   "state": "GA",
-   "date": "2027-02-18",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-duluth-georgia-02-18-2027/event/0E006562ABC17E09",
-   "onsale_at": "2026-11-12T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
-   "artist": "Feid",
-   "venue": "Spectrum Center",
-   "city": "Charlotte",
+   "show": "PineCone Presents: Laurie Lewis & The Right Hands",
+   "artist": "Laurie Lewis",
+   "venue": "Martin Marietta Center for the Performing Arts",
+   "city": "Raleigh",
    "state": "NC",
-   "date": "2027-02-20",
+   "date": "2027-04-03",
    "face_min": null,
-   "url": "https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-charlotte-north-carolina-02-20-2027/event/2D006562B21A8E27",
-   "onsale_at": "2026-11-12T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
-   "artist": "FEID",
-   "venue": "Xfinity Mobile Arena",
-   "city": "Philadelphia",
-   "state": "PA",
-   "date": "2027-02-26",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-philadelphia-pennsylvania-02-26-2027/event/30006565AB1E4D1C",
+   "url": "https://www.ticketmaster.com/pinecone-presents-laurie-lewis-the-right-raleigh-north-carolina-04-03-2027/event/2D006556E919A678",
    "onsale_at": "2026-11-12T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
@@ -391,17 +365,43 @@
    "city_dates": 4.0
   },
   {
-   "show": "PineCone Presents: Trey Hensley Band",
-   "artist": "PineCone",
-   "venue": "Martin Marietta Center for the Performing Arts",
-   "city": "Raleigh",
-   "state": "NC",
-   "date": "2027-01-30",
+   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
+   "artist": "Feid",
+   "venue": "Barclays Center",
+   "city": "Brooklyn",
+   "state": "NY",
+   "date": "2027-03-03",
    "face_min": null,
-   "url": "https://www.ticketmaster.com/pinecone-presents-trey-hensley-band-raleigh-north-carolina-01-30-2027/event/2D006556E90DA654",
+   "url": "https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-brooklyn-new-york-03-03-2027/event/3000656491B9295F",
    "onsale_at": "2026-11-12T15:00:00Z",
    "spotify_followers": null,
-   "city_dates": 4.0
+   "city_dates": 1.0
+  },
+  {
+   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
+   "artist": "Feid",
+   "venue": "PeoplesBank Arena",
+   "city": "Hartford",
+   "state": "CT",
+   "date": "2027-02-28",
+   "face_min": null,
+   "url": "https://www.axs.com/events/1688761/feid-ferxxo-the-green-star-tour-2027-tickets",
+   "onsale_at": "2026-11-12T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "FEID - FERXXO - THE GREEN STAR Tour 2027",
+   "artist": "Feid",
+   "venue": "Capital One Arena",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-02-25",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-washington-district-of-columbia-02-25-2027/event/1500654538915859",
+   "onsale_at": "2026-11-12T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
   }
  ],
  "movers": [],
@@ -413,10 +413,10 @@
   "sources": {
    "ticketmaster": {
     "ok": false,
-    "calls": 171,
+    "calls": 168,
     "errors": 0,
     "last_error": null,
-    "events": 24185,
+    "events": 23534,
     "failed_states": [
      "FL",
      "IL",
@@ -428,33 +428,33 @@
    },
    "seatgeek": {
     "ok": true,
-    "calls": 256,
+    "calls": 252,
     "errors": 0,
     "last_error": null,
-    "events": 22854,
+    "events": 22437,
     "failed_states": []
    },
    "spotify": {
-    "ok": false,
-    "calls": 119,
-    "errors": 23,
+    "ok": true,
+    "calls": 984,
+    "errors": 22,
     "last_error": "HTTP 429: {\"error\":{\"status\":429,\"message\":\"Too many requests\",\"reason\":\"QUOTA_EXCEEDED\"}}",
-    "found": 2,
-    "not_found": 0,
-    "missing_follower_fields": 2,
-    "queued": 4426,
-    "captured": 2,
-    "backlog": 4424
+    "found": 457,
+    "not_found": 415,
+    "missing_follower_fields": 457,
+    "queued": 4271,
+    "captured": 872,
+    "backlog": 3399
    }
   },
   "notes": [
    "Spotify returned artists but no follower or popularity numbers."
   ],
   "face_value_missing_pct": 78.8,
-  "match_rate_pct": 51.8,
-  "seatgeek_only_shows": 10315,
+  "match_rate_pct": 52.1,
+  "seatgeek_only_shows": 10165,
   "onsale_time_known_pct": 99.9,
-  "run_minutes": 97.7,
+  "run_minutes": 100.4,
   "ok": false
  }
 }
