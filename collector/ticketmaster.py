@@ -50,7 +50,7 @@ def parse(ev):
     return {
         "tm_id": ev["id"],
         "name": name,
-        "artist": atts[0]["name"] if atts else name,
+        "artist": (atts[0].get("name") or name) if atts else name,
         "all_artists": "; ".join(a.get("name", "") for a in atts),
         "tm_attraction_id": atts[0].get("id", "") if atts else "",
         "spotify_id": spotify_id,
@@ -82,13 +82,18 @@ def _query(api, key, state, start, end, page):
 
 
 SAMPLES = []
+SKIPPED = []
 
 
 def _add(data, out):
     for ev in ((data.get("_embedded") or {}).get("events") or []):
         if len(SAMPLES) < 3 and ev.get("priceRanges") is None:
             SAMPLES.append(ev)
-        row = parse(ev)
+        try:
+            row = parse(ev)
+        except Exception as e:  # one malformed event must not sink the whole state
+            SKIPPED.append(f"{ev.get('id')}: {e}")
+            continue
         if row:
             out[row["tm_id"]] = row
 
@@ -122,4 +127,4 @@ def sweep(key, states, start, end):
             break
     log(f"ticketmaster: {len(out)} events, {api.calls} calls, failed states: {failed}")
     ok = len(failed) <= max(1, len(states) // 10) and bool(out)
-    return out, api.info(ok=ok, events=len(out), failed_states=failed)
+    return out, api.info(ok=ok, events=len(out), failed_states=failed, skipped_events=len(SKIPPED))

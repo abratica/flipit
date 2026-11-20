@@ -41,6 +41,7 @@ def parse(ev):
         "average": stats.get("average_price"),
         "highest": stats.get("highest_price"),
         "url": ev.get("url", ""),
+        "sg_status": ev.get("status") or "",
     }
 
 

@@ -4,7 +4,8 @@ Environment:
   TM_KEY, SEATGEEK_ID, SEATGEEK_SECRET, SPOTIFY_ID, SPOTIFY_SECRET   API keys (GitHub secrets)
   FLIPIT_MODE   "full" (default): nationwide, 6 months, saved to data/
                 "test": Massachusetts only, 30 days, saved to data_test/ (not committed)
-  SPOTIFY_MINUTES   time budget for Spotify lookups (default 90; the backlog carries over)
+  SPOTIFY_ENABLED   set to 1 to turn Spotify lookups back on (off: it no longer returns follower numbers)
+  SPOTIFY_MINUTES   time budget for Spotify lookups when enabled (default 90)
 """
 import datetime as dt
 import json
@@ -13,7 +14,9 @@ import sys
 import time
 from zoneinfo import ZoneInfo
 
-from . import score, seatgeek, spotify, ticketmaster
+from collections import Counter
+
+from . import score, seatgeek, spotify, ticketmaster, watchlist
 from .match import match
 from .store import Store
 from .util import log
@@ -52,19 +55,20 @@ def main():
     seen = store.upsert(tm_events, sg_events, pairs, today.isoformat())
 
     queue = store.note_artists(seen, today.isoformat())
-    if test:
-        queue = queue[:40]
-    minutes = float(os.environ.get("SPOTIFY_MINUTES", "5" if test else "90"))
-    try:
-        sp = spotify.Spotify(os.environ["SPOTIFY_ID"], os.environ["SPOTIFY_SECRET"])
-        results = spotify.capture(sp, queue, time.monotonic() + minutes * 60)
-        store.save_spotify(results, today.isoformat())
-        health["sources"]["spotify"] = sp.info(queued=len(queue), captured=len(results),
-                                               backlog=len(queue) - len(results))
-        if sp.found and sp.fields_missing == sp.found:
-            health["notes"].append("Spotify returned artists but no follower or popularity numbers.")
-    except Exception as e:
-        health["sources"]["spotify"] = {"ok": False, "error": str(e)[:300]}
+    # Spotify's developer mode stopped returning follower and popularity numbers, and the lookups hit
+    # its quota, so it's off unless SPOTIFY_ENABLED=1.
+    if os.environ.get("SPOTIFY_ENABLED") == "1":
+        if test:
+            queue = queue[:40]
+        minutes = float(os.environ.get("SPOTIFY_MINUTES", "5" if test else "90"))
+        try:
+            sp = spotify.Spotify(os.environ["SPOTIFY_ID"], os.environ["SPOTIFY_SECRET"])
+            results = spotify.capture(sp, queue, time.monotonic() + minutes * 60)
+            store.save_spotify(results, today.isoformat())
+            health["sources"]["spotify"] = sp.info(queued=len(queue), captured=len(results),
+                                                   backlog=len(queue) - len(results))
+        except Exception as e:
+            health["sources"]["spotify"] = {"ok": False, "error": str(e)[:300]}
 
     today_rows = store.snapshot(seen, today.isoformat())
     store.save()
@@ -77,13 +81,17 @@ def main():
     health["onsale_time_known_pct"] = (
         round(100 * sum(1 for t in tm_rows if t["onsale_at"]) / len(tm_rows), 1) if tm_rows else None)
     health["run_minutes"] = round((time.monotonic() - started) / 60, 1)
+    health["seatgeek_status_values"] = dict(Counter(sg["sg_status"] for sg in sg_events.values()).most_common())
     health["ok"] = all(s.get("ok") for s in health["sources"].values())
 
-    b = score.run(store, today_rows, health, today)
+    hist, days_collected = score.load_history(store.root)
+    wl = watchlist.build(store, today_rows, hist, today)
+    health["watchlist"] = dict(Counter(r["reason"] for r in wl))
+    b = score.run(store, today_rows, health, today, hist, days_collected)
     summary(b, test)
     if test:
         for label, samples in (("ticketmaster event without priceRanges", ticketmaster.SAMPLES),
-                               ("seatgeek event", seatgeek.SAMPLES), ("spotify artist", spotify.Spotify.SAMPLES)):
+                               ("seatgeek event", seatgeek.SAMPLES)):
             for ev in samples:
                 log(f"SAMPLE {label}: " + json.dumps(ev)[:6000])
     if not health["ok"]:

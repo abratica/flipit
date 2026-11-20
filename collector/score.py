@@ -185,13 +185,48 @@ def brief(store, today_rows, hist, outs, vstats, health, days_collected, today):
     }
 
 
-def run(store, today_rows, health, today):
-    hist, days_collected = load_history(store.root)
+def stubhub(root, shows):
+    """Price history from the daily StubHub check: first vs latest cheapest price, and listings gone overnight."""
+    files = sorted(glob.glob(os.path.join(root, "stubhub", "20*.csv")))
+    per = defaultdict(list)
+    for path in files:
+        for r in read_csv(path):
+            price = num(r.get("cheapest_price")) or num(r.get("min_price"))
+            if r.get("status") == "ok" and price:
+                per[r["show_id"]].append((r["date"], price, set(filter(None, r.get("cheapest_ids", "").split(";")))))
+    out = []
+    for sid, pts in per.items():
+        pts.sort(key=lambda p: p[0])
+        s = shows.get(sid, {})
+        gone = None
+        if len(pts) >= 2 and pts[-2][2]:
+            gone = round(len(pts[-2][2] - pts[-1][2]) / len(pts[-2][2]), 2)
+        out.append({"show_id": sid, "artist": s.get("artist"), "venue": s.get("venue_name"), "city": s.get("city"),
+                    "state": s.get("state"), "date": s.get("date"), "first_day": pts[0][0], "first_price": pts[0][1],
+                    "latest_price": pts[-1][1], "growth": round(pts[-1][1] / pts[0][1], 2), "days": len(pts),
+                    "cheapest_listings_gone_overnight": gone})
+    return out, len(files)
+
+
+def run(store, today_rows, health, today, hist=None, days_collected=None):
+    if hist is None:
+        hist, days_collected = load_history(store.root)
     outs = outcomes(store.shows, hist, today)
     write_csv(store.path("outcomes.csv"), outs, OUTCOME_FIELDS)
     vstats = venue_stats(store.venues, store.shows, outs, today_rows)
     write_csv(store.path("venue_stats.csv"), sorted(vstats, key=lambda v: v["venue_key"]), VENUE_STAT_FIELDS)
     b = brief(store, today_rows, hist, outs, vstats, health, days_collected, today)
+    sh, sh_days = stubhub(store.root, store.shows)
+    write_csv(store.path("stubhub_growth.csv"), sorted(sh, key=lambda r: -r["growth"]),
+              list(sh[0].keys()) if sh else ["show_id"])
+    b["stubhub"] = {"days_checked": sh_days, "shows_with_prices": len(sh),
+                    "rising": sorted([r for r in sh if r["days"] >= 2], key=lambda r: -r["growth"])[:15],
+                    "falling": sorted([r for r in sh if r["days"] >= 2], key=lambda r: r["growth"])[:10]}
+    from .signals import added_dates
+    b["second_show_added"] = [
+        {"artist": o["artist"], "venue": o["venue_name"], "city": o["city"], "state": o["state"],
+         "original_date": o["date"], "added_date": a["date"], "added_seen": a["first_seen"]}
+        for o, a in added_dates(store.shows, since=(today - dt.timedelta(days=14)).isoformat())][:30]
     os.makedirs(store.path("app"), exist_ok=True)
     with open(store.path("app", "brief.json"), "w") as f:
         json.dump(b, f, indent=1)

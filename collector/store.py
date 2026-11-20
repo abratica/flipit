@@ -29,7 +29,7 @@ VENUE_FIELDS = [
 ]
 SNAPSHOT_FIELDS = [
     "date", "show_id", "days_until", "status", "face_min", "face_max", "listing_count",
-    "lowest", "lowest_base", "median", "average", "highest", "sg_score",
+    "lowest", "lowest_base", "median", "average", "highest", "sg_score", "sg_status",
 ]
 # fields filled at first sighting and never overwritten afterwards
 FIRST_ONLY = {"first_seen", "sg_score_first", "sg_popularity_first", "announce_date", "artist", "artist_key"}
@@ -224,7 +224,7 @@ class Store:
                 "listing_count": sg["listing_count"] if sg else "", "lowest": sg["lowest"] if sg else "",
                 "lowest_base": sg["lowest_base"] if sg else "", "median": sg["median"] if sg else "",
                 "average": sg["average"] if sg else "", "highest": sg["highest"] if sg else "",
-                "sg_score": sg["score"] if sg else "",
+                "sg_score": sg["score"] if sg else "", "sg_status": sg["sg_status"] if sg else "",
             })
         write_csv(self.path("snapshots", f"{today}.csv.gz"), rows, SNAPSHOT_FIELDS)
         return rows
