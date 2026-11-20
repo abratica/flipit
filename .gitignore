@@ -2,3 +2,5 @@ data_test/
 __pycache__/
 *.pyc
 *.tmp
+work.jsonl
+results.jsonl
