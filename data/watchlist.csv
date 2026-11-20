@@ -1,0 +1,61 @@
+show_id,artist,name,venue_name,city,state,date,time,reason,pool_size,sg_score_at_add,added
+sg:18389542,Dark Star Orchestra,Dark Star Orchestra,War Memorial Auditorium-FL,Fort Lauderdale,FL,2026-12-03,19:30:00,second_show,73,0.5930827544,2026-11-20
+tm:vvG1zZ_KwYl1sq,Lil Baby,Lil Baby: Fresh Prince of Atlanta Birthday Celebration,State Farm Arena,Atlanta,GA,2026-12-05,20:00:00,second_show,73,0.7144393533,2026-11-20
+tm:1AOZk4JGkeXPfxk,Tame Impala,Tame Impala - The Deadbeat Tour ,BOK Center,Tulsa,OK,2027-02-10,19:00:00,second_show,73,0.7002824215,2026-11-20
+tm:16dZZ_p3oG7m3PL,Feid,FEID - FERXXO - THE GREEN STAR Tour 2027,Barclays Center,Brooklyn,NY,2027-03-03,20:00:00,second_show,73,0.5951205217,2026-11-20
+tm:k7vGF_4nHl9NN,Cody Johnson,Cody Johnson and Friends Tour,MVP Arena,Albany,NY,2027-03-13,19:00:00,second_show,73,0.5903870806,2026-11-20
+tm:vv17FZ_pGkRZLRgR,Phoebe Bridgers,Phoebe Bridgers: The Lost Tour,Prudential Center,Newark,NJ,2027-03-16,19:30:00,second_show,73,0.6067130479,2026-11-20
+tm:k7v17_9ZJG7yg_u,Sasha Keable,Sasha Keable - Act Right Tour,Irving Plaza Powered By Verizon 5G,New York,NY,2027-04-03,19:00:00,second_show,73,0.5552828519,2026-11-20
+tm:vvG1zZ_pUnmlds,Sasha Keable,Sasha Keable - Act Right Tour,Buckhead Theatre by SCANA Energy,Atlanta,GA,2027-04-14,20:00:00,second_show,73,0.5874660819,2026-11-20
+sg:18674837,Calvin Harris,Calvin Harris - North America Tour,Ariat Arena,Fort Worth,TX,2027-04-24,20:00:00,second_show,73,0.5956464124,2026-11-20
+sg:18674845,Calvin Harris,Calvin Harris - North America Tour,Moody Center ATX,Austin,TX,2027-04-25,20:00:00,second_show,73,0.5798849457,2026-11-20
+sg:18711214,Zach Bryan,Zach Bryan w/ John Fogerty,Soldier Field,Chicago,IL,2027-05-07,19:00:00,second_show,73,0.6021955235,2026-11-20
+tm:Z7r9jZ1AA7_ae,Turnpike Troubadours,Turnpike Troubadours w/ Amble,Red Rocks Amphitheatre,Morrison,CO,2027-05-13,19:00:00,second_show,73,0.5781263561,2026-11-20
+tm:k7vGF_fSxRnwp,Zach Bryan,Zach Bryan,MetLife Stadium,East Rutherford,NJ,2027-05-14,19:00:00,second_show,73,0.6196133089,2026-11-20
+sg:18784656,Kingfishr,Kingfishr: Weight Of The Feather Tour 2027,Citizens House of Blues Boston,Boston,MA,2027-05-16,19:00:00,second_show,73,0.6213055354,2026-11-20
+sg:18760671,Deftones,Deftones - North American Tour 2027,Hollywood Bowl,Hollywood,CA,2027-05-18,19:00:00,second_show,73,0.6218107542,2026-11-20
+sg:18762264,Decadent 80s Dance Party,Decadent 80s Dance Party (21+),McMenamins Crystal Ballroom,Portland,OR,2026-11-27,20:00:00,climber,2353,0.3230475127,2026-11-20
+sg:18665782,Jason Boland & The Stragglers,Jason Boland & The Stragglers,Cain's Ballroom - Tulsa,Tulsa,OK,2026-11-27,20:15:00,climber,2353,0.3201746146,2026-11-20
+tm:Z7r9jZ1AA7oZ9,Shane Smith and the Saints,Shane Smith and the Saints,Cain's Ballroom,Tulsa,OK,2026-12-03,19:30:00,climber,2353,0.3552435073,2026-11-20
+tm:vvG1zZ_fQg7mxj,Lil Baby,Lil Baby: Fresh Prince of Atlanta Birthday Celebration,State Farm Arena,Atlanta,GA,2026-12-04,20:00:00,climber,2353,0.607403952,2026-11-20
+tm:vv177Z_pGklCqrW5,Moneybagg Yo,Moneybagg Yo,Memoire,Everett,MA,2026-12-11,22:00:00,climber,2353,0.3097388793,2026-11-20
+tm:Z7r9jZ1AA7UOY,Young the Giant,Young the Giant,McMenamins Crystal Ballroom,Portland,OR,2026-12-13,20:00:00,climber,2353,0.3865422964,2026-11-20
+tm:k7vGF_pl5MLgi,EJAE,Christmas in New York with EJAE: A Holiday Show!,Bowery Ballroom,New York,NY,2026-12-14,19:00:00,climber,2353,0.3552436217,2026-11-20
+tm:Z7r9jZ1AA7Fk3,almost monday,Almost Monday w/ In Color,McMenamins Crystal Ballroom,Portland,OR,2026-12-16,20:00:00,climber,2353,0.3210840864,2026-11-20
+sg:18763089,Jon Pardi,JON PARDI - THE CHRISTMAS SHOW - ONE NIGHT ONLY,The Truth,Nashville,TN,2026-12-17,19:30:00,climber,2353,0.4932939649,2026-11-20
+tm:vvG1zZ_pwZ97kW,Moneybagg Yo,One Night Only with Moneybagg Yo & Special Guest,Columbus Civic Center,Columbus,GA,2026-12-19,20:00:00,climber,2353,0.3696308763,2026-11-20
+tm:Z7r9jZ1AAZpqt,Wyatt Flores,Wyatt Flores w/ Logan Mac,Cain's Ballroom,Tulsa,OK,2026-12-31,21:00:00,climber,2353,0.3456772602,2026-11-20
+sg:18762810,Matthew Morrison,Matthew Morrison,Lone Tree Arts Center,Lone Tree,CO,2027-01-15,19:30:00,climber,2353,0.3868465806,2026-11-20
+sg:18732766,Sons of Cream,Sons of Cream,Bilheimer Capitol Theatre,Clearwater,FL,2027-01-22,20:00:00,climber,2353,0.3502212923,2026-11-20
+tm:G5viZ_ploiLrd,Garth Brooks,Garth Brooks - Blame It All On My Roots Arena Tour,Simmons Bank Arena,North Little Rock,AR,2027-02-05,20:00:00,climber,2353,0.6299400217,2026-11-20
+tm:G5viZ_plKWTt5,Garth Brooks,Garth Brooks - Blame It All On My Roots Arena Tour,Simmons Bank Arena,North Little Rock,AR,2027-02-06,20:00:00,climber,2353,0.6611625885,2026-11-20
+sg:18754928,Widespread Panic,Widespread Panic,The Truth,Nashville,TN,2027-02-11,20:00:00,climber,2353,0.4271798162,2026-11-20
+sg:18762262,Trampled by Turtles,Trampled by Turtles,McMenamins Crystal Ballroom,Portland,OR,2027-02-19,20:00:00,climber,2353,0.3060715765,2026-11-20
+tm:Z7r9jZ1AA7Mo3,Zack Fox,Zack Fox - Ages 16+,Mission Ballroom,Denver,CO,2027-03-05,20:00:00,climber,2353,0.350881107,2026-11-20
+tm:Z7r9jZ1AA7yJ3,Warren Haynes,Warren Haynes,Heinz Hall,Pittsburgh,PA,2027-03-30,19:30:00,climber,2353,0.3500980449,2026-11-20
+tm:vv1AvZk4NGkdE3rwt,Cody Johnson,Cody Johnson and Friends Tour,John Paul Jones Arena,Charlottesville,VA,2027-04-03,19:00:00,climber,2353,0.6766331032,2026-11-20
+tm:1AvfZ_pGkmH2D5-,Noga Erez,NOGA EREZ - DUCK SEASON TOUR 2027,The Anthem,Washington,DC,2027-04-04,19:00:00,climber,2353,0.3006051234,2026-11-20
+sg:18755184,Billy Strings,Billy Strings,Benchmark International Arena,Tampa,FL,2027-04-06,19:30:00,climber,2353,0.5472361579,2026-11-20
+tm:G5eVZ_pJBrabr,Billy Strings,"Billy Strings 2-Day Ticket (4/23-4/24) Valid Both Days, Cannot Split.",First Horizon Coliseum,Greensboro,NC,2027-04-23,,climber,2353,0.534871844,2026-11-20
+sg:18760644,Phoebe Bridgers,Phoebe Bridgers: The Lost Tour,Kaseya Center,Miami,FL,2027-04-24,19:30:00,climber,2353,0.6535310625,2026-11-20
+sg:18762145,The Radio Dept.,The Radio Dept.,Webster Hall,New York,NY,2027-05-10,20:00:00,climber,2353,0.3046489675,2026-11-20
+tm:G5vzZ_954pzlY,Ohgeesy,"Who Want The Smoke! OHGEESY, MIKE SHERM, 03 GREEDO, STUNNA GIRL & More",Rio Rancho Events Center,Rio Rancho,NM,2027-03-20,19:00:00,onsale_soon,5,0.4362381905,2026-11-20
+tm:Z7r9jZ1AAA-Fg,Rascal Flatts,Rascal Flatts,BYU-Idaho Center,Rexburg,ID,2027-03-20,19:30:00,onsale_soon,5,0.4281837158,2026-11-20
+sg:18827093,Tori Kelly,Tori Kelly w/ HILLARI,Franklin Music Hall,Philadelphia,PA,2027-04-17,20:00:00,onsale_soon,5,0.4233764319,2026-11-20
+sg:18263072,New Orleans Jazz and Heritage Festival,Cyril Neville,New Orleans Jazz Market,New Orleans,LA,2027-04-22,20:00:00,onsale_soon,5,0.4728128811,2026-11-20
+sg:18778957,Tori Kelly,Tori Kelly,The Truman - Kansas City,Kansas City,MO,2027-05-05,20:00:00,onsale_soon,5,0.364235055,2026-11-20
+tm:vv177Z_4GkwLmmiX,.tribe ( 21+ ),.tribe ( 21+ ),Big Night Live,Boston,MA,2026-11-25,21:30:00,random,29511,0.3225672216,2026-11-20
+sg:18810865,9Million,9Million,Tower Theatre - Fresno,Fresno,CA,2026-12-10,20:00:00,random,29511,0.1306551505,2026-11-20
+tm:vvG1HZ_pCJ9UGB,Hair Nation,Hair Nation - 80s Arena Rock Tribute,Suquamish Clearwater Beach Rock Music & Sports Lounge,Suquamish,WA,2027-01-01,20:30:00,random,29511,0.1497233166,2026-11-20
+sg:18726705,Greensky Bluegrass,Greensky Bluegrass,The Bellwether,Los Angeles,CA,2027-01-14,19:30:00,random,29511,0.172463069,2026-11-20
+sg:18825821,Pink Droyd,Pink Droyd,"The Clyde Theatre - Fort Wayne, IN",Fort Wayne,IN,2027-01-16,20:00:00,random,29511,0.1038895251,2026-11-20
+tm:17FZv0G62XAboS2,Sweet Baby James,Bill Griese sings James Taylor,VBC Mars Music Hall,Huntsville,AL,2027-01-16,19:30:00,random,29511,0.0968274667,2026-11-20
+sg:18684263,Magic Mike Tour,Magic Mike Tour - Las Vegas (18+),SAHARA Las Vegas,Las Vegas,NV,2027-01-22,19:30:00,random,29511,0.1663795995,2026-11-20
+sg:18645457,Evnne,"EVNNE ""ONE TAKE"" Fan-Concert Tour",Theatre of Living Arts,Philadelphia,PA,2027-01-26,19:30:00,random,29511,0.0909266075,2026-11-20
+sg:18610351,2000s Rave,2000s Rave,Brooklyn Bowl Nashville,Nashville,TN,2027-01-29,20:00:00,random,29511,0.1275486562,2026-11-20
+sg:18761710,OMNOM,OMNOM (18+),Shrine Expo Hall,Los Angeles,CA,2027-02-05,21:00:00,random,29511,0.1689545391,2026-11-20
+sg:18836979,Aaron Branch,Aaron Branch,The Comedy Club at Duckworth's,Charlotte,NC,2027-03-05,19:00:00,random,29511,0.2111862125,2026-11-20
+sg:18822736,Le Youth,Le Youth,Meow Wolf - Santa Fe,Santa Fe,NM,2027-03-05,20:00:00,random,29511,0.0889772062,2026-11-20
+sg:18786528,Noga Erez,Noga Erez,The Novo by Microsoft,Los Angeles,CA,2027-03-12,20:00:00,random,29511,0.2485563465,2026-11-20
+sg:18689173,Cyclops,Cyclops,Peabody's Nightclub,Virginia Beach,VA,2027-04-10,21:00:00,random,29511,0.0867015534,2026-11-20
+tm:rZ7HnEZ1AfaZa0,Hans Williams,Hans Williams,Tipitina's,New Orleans,LA,2027-04-10,21:00:00,random,29511,0.1483724657,2026-11-20

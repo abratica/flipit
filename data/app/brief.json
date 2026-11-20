@@ -1,18 +1,57 @@
 {
- "generated_at": "2026-11-20T20:34:33.138031+00:00",
+ "generated_at": "2026-11-20T21:43:58.247970+00:00",
  "date": "2026-11-20",
  "days_collected": 19,
  "breakeven_markup": 1.41,
  "tracking": {
-  "upcoming_shows": 39213,
-  "venues": 4725,
-  "artists": 12945,
-  "new_shows_today": 432,
-  "new_venues_today": 18,
+  "upcoming_shows": 41296,
+  "venues": 4765,
+  "artists": 13401,
+  "new_shows_today": 1326,
+  "new_venues_today": 40,
   "shows_with_resale_data": 0,
   "completed_shows_scored": 0
  },
  "onsales_this_week": [
+  {
+   "show": "2 DAY PASS - Lil Texas",
+   "artist": "Lil Texas",
+   "venue": "Hollywood Palladium",
+   "city": "Hollywood",
+   "state": "CA",
+   "date": "2027-04-10",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/2-day-pass-lil-texas-hollywood-california-04-10-2027/event/09006571EDD9DC53",
+   "onsale_at": "2026-11-20T22:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 3.0
+  },
+  {
+   "show": "Basscon presents Lil Texas",
+   "artist": "Lil Texas",
+   "venue": "Hollywood Palladium",
+   "city": "Hollywood",
+   "state": "CA",
+   "date": "2027-04-10",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/basscon-presents-lil-texas-hollywood-california-04-10-2027/event/0900656F3F114F8A",
+   "onsale_at": "2026-11-20T22:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 3.0
+  },
+  {
+   "show": "Basscon presents Lil Texas",
+   "artist": "Lil Texas",
+   "venue": "Hollywood Palladium",
+   "city": "Hollywood",
+   "state": "CA",
+   "date": "2027-04-09",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/basscon-presents-lil-texas-hollywood-california-04-09-2027/event/0900656F3EFB4F6C",
+   "onsale_at": "2026-11-20T22:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 3.0
+  },
   {
    "show": "Tori Kelly w/ HILLARI",
    "artist": "Tori Kelly",
@@ -92,6 +131,149 @@
    "city_dates": 6.0
   },
   {
+   "show": "In The Row with Kathy Ashworth, Kent Blazy & Bryan Kennedy with Stevie C",
+   "artist": "In The Row with Kathy Ashworth, Kent Blazy & Bryan Kennedy with Stevie C",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-27",
+   "face_min": 21.49,
+   "url": "https://www.ticketweb.com/event/in-the-row-with-kathy-the-bluebird-cafe-tickets/14380824",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "Blue Monday with Kevin McKendree, George Sluppick, Steve Mackey & Yates McKendree",
+   "artist": "Blue Monday with Kevin McKendree, George Sluppick, Steve Mackey & Yates McKendree",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-30",
+   "face_min": 27.63,
+   "url": "https://www.ticketweb.com/event/blue-monday-with-kevin-mckendree-the-bluebird-cafe-tickets/14380904",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 4.0
+  },
+  {
+   "show": "Writers Night hosted by Steve Goodie",
+   "artist": "Writers Night hosted by Steve Goodie",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-29",
+   "face_min": 4.86,
+   "url": "https://www.ticketweb.com/event/writers-night-hosted-by-steve-the-bluebird-cafe-tickets/14380874",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
+  },
+  {
+   "show": "In The Round with Striking Matches, Abigail Rose & friend",
+   "artist": "Striking Matches",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-28",
+   "face_min": 27.63,
+   "url": "https://www.ticketweb.com/event/in-the-round-with-striking-the-bluebird-cafe-tickets/14380854",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "Sunday Spotlight with Kent Blazy; Presented by Southbound Tequila",
+   "artist": "Sunday Spotlight with Kent Blazy; Presented by Southbound Tequila",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-29",
+   "face_min": 21.49,
+   "url": "https://www.ticketweb.com/event/sunday-spotlight-with-kent-blazy-the-bluebird-cafe-tickets/14380864",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "An Evening with Sweethearts of the Rodeo",
+   "artist": "An Evening with Sweethearts of the Rodeo",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-27",
+   "face_min": 33.27,
+   "url": "https://www.ticketweb.com/event/an-evening-with-sweethearts-of-the-bluebird-cafe-tickets/14380834",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "In The Round with Jerry Vandiver, Caitlin Evanson, Tim Buppert & Steve Williams",
+   "artist": "In The Round with Jerry Vandiver, Caitlin Evanson, Tim Buppert & Steve Williams",
+   "venue": "The Bluebird Cafe",
+   "city": "Nashville",
+   "state": "TN",
+   "date": "2026-11-28",
+   "face_min": 21.49,
+   "url": "https://www.ticketweb.com/event/in-the-round-with-jerry-the-bluebird-cafe-tickets/14380844",
+   "onsale_at": "2026-11-23T14:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "Fortas Chamber Music Concerts:  From Mozart to Mazzoli",
+   "artist": "Fortas Chamber Music Concerts",
+   "venue": "Hammer Auditorium",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-04-07",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/fortas-chamber-music-concerts-from-mozart-washington-district-of-columbia-04-07-2027/event/15006573BE93C16D",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
+  },
+  {
+   "show": "Fortas Chamber Music Concerts:  Takacs Quartet",
+   "artist": "Fortas Chamber Music Concerts",
+   "venue": "Hammer Auditorium",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-01-19",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/fortas-chamber-music-concerts-takacs-quartet-washington-district-of-columbia-01-19-2027/event/15006564DF4FABBA",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
+  },
+  {
+   "show": "Udit Narayan & Aditya Narayan",
+   "artist": "Udit Narayan",
+   "venue": "Lynn Auditorium",
+   "city": "Lynn",
+   "state": "MA",
+   "date": "2027-04-03",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/udit-narayan-aditya-narayan-lynn-massachusetts-04-03-2027/event/01006571D6E9C36B",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
+   "show": "ASH - 1977 30th Anniversary Tour - North America 2027 (18+)",
+   "artist": "Ash",
+   "venue": "Brighton Music Hall presented by Citizens",
+   "city": "Boston",
+   "state": "MA",
+   "date": "2027-04-12",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/ash-1977-30th-anniversary-tour-north-boston-massachusetts-04-12-2027/event/0100656DD11C15BE",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
+  },
+  {
    "show": "Pat Roddy Band \"St. Patrick's Celebration\"",
    "artist": "Pat Roddy Band \"St. Patrick's Celebration\"",
    "venue": "The Stone Pony",
@@ -103,6 +285,45 @@
    "onsale_at": "2026-11-23T15:00:00Z",
    "spotify_followers": null,
    "city_dates": 1.0
+  },
+  {
+   "show": "Fortas Chamber Music Concerts:  Junction Trio",
+   "artist": "Fortas Chamber Music Concerts",
+   "venue": "Hammer Auditorium",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-02-09",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/fortas-chamber-music-concerts-junction-trio-washington-district-of-columbia-02-09-2027/event/15006573BE8FC15B",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
+  },
+  {
+   "show": "Fortas Chamber Music Concerts:  Isidore String Quartet",
+   "artist": "Fortas Chamber Music Concerts",
+   "venue": "Hammer Auditorium",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-04-01",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/fortas-chamber-music-concerts-isidore-string-washington-district-of-columbia-04-01-2027/event/15006573BE92C166",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
+  },
+  {
+   "show": "Fortas Chamber Music Concerts:  Anthony McGill Recital",
+   "artist": "Fortas Chamber Music Concerts",
+   "venue": "Hammer Auditorium",
+   "city": "Washington",
+   "state": "DC",
+   "date": "2027-05-17",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/fortas-chamber-music-concerts-anthony-mcgill-washington-district-of-columbia-05-17-2027/event/15006573BE96C187",
+   "onsale_at": "2026-11-23T15:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 7.0
   },
   {
    "show": "96.3 Star Country's Class Of 2027 pres by Off Broadway Draft House!",
@@ -141,98 +362,46 @@
    "url": "https://www.ticketweb.com/event/open-mic-performer-sign-ups-the-bluebird-cafe-tickets/14378504",
    "onsale_at": "2026-11-23T17:00:00Z",
    "spotify_followers": null,
-   "city_dates": 4.0
-  },
-  {
-   "show": "Open Mic hosted by Barbara Cloyd",
-   "artist": "Open Mic hosted by Barbara Cloyd",
-   "venue": "The Bluebird Cafe",
-   "city": "Nashville",
-   "state": "TN",
-   "date": "2026-11-23",
-   "face_min": null,
-   "url": "https://www.ticketweb.com/event/open-mic-hosted-by-barbara-the-bluebird-cafe-tickets/14378494",
-   "onsale_at": "2026-11-23T23:30:00Z",
-   "spotify_followers": null,
-   "city_dates": 4.0
-  },
-  {
-   "show": "KARAOKE FROM HELL",
-   "artist": "KARAOKE FROM HELL",
-   "venue": "Dante's",
-   "city": "Portland",
-   "state": "OR",
-   "date": "2026-12-07",
-   "face_min": 8.26,
-   "url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972414",
-   "onsale_at": "2026-11-24T05:00:00Z",
-   "spotify_followers": null,
    "city_dates": 7.0
   },
   {
-   "show": "Cameron Winter at Carnegie Hall",
-   "artist": "Cameron Winter",
-   "venue": "The Carolina",
-   "city": "Charlotte",
-   "state": "NC",
-   "date": "2027-01-30",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/cameron-winter-at-carnegie-hall-charlotte-north-carolina-01-30-2027/event/2D006569C032A1A2",
-   "onsale_at": "2026-11-24T17:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "Cyril Neville",
-   "artist": "New Orleans Jazz and Heritage Festival",
-   "venue": "New Orleans Jazz Market",
-   "city": "New Orleans",
-   "state": "LA",
-   "date": "2027-04-22",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/cyril-neville-new-orleans-louisiana-04-22-2027/event/1B006573BDB45599",
-   "onsale_at": "2026-11-25T15:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 10.0
-  },
-  {
-   "show": "Who Want The Smoke! OHGEESY, MIKE SHERM, 03 GREEDO, STUNNA GIRL & More",
-   "artist": "Ohgeesy",
-   "venue": "Rio Rancho Events Center",
-   "city": "Rio Rancho",
-   "state": "NM",
-   "date": "2027-03-20",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/who-want-the-smoke-ohgeesy-mike-rio-rancho-new-mexico-03-20-2027/event/1E006572D55B8AF0",
-   "onsale_at": "2026-11-25T17:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 1.0
-  },
-  {
-   "show": "Tame Impala - The Deadbeat Tour ",
-   "artist": "Tame Impala",
-   "venue": "BOK Center",
-   "city": "Tulsa",
-   "state": "OK",
-   "date": "2027-02-11",
-   "face_min": null,
-   "url": "https://www.ticketmaster.com/tame-impala-the-deadbeat-tour-tulsa-oklahoma-02-11-2027/event/2000656BA29C42B7",
-   "onsale_at": "2026-11-25T18:00:00Z",
-   "spotify_followers": null,
-   "city_dates": 2.0
-  },
-  {
-   "show": "Victrola Record Club - Vinyl Nights",
-   "artist": "Victrola Record Club - Vinyl Nights",
-   "venue": "Stage Red",
-   "city": "Fontana",
+   "show": "David P Stevens",
+   "artist": "David P Stevens",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
    "state": "CA",
-   "date": "2026-12-09",
+   "date": "2027-02-21",
    "face_min": null,
-   "url": "https://www.ticketmaster.com/victrola-record-club-vinyl-nights-fontana-california-12-09-2026/event/090065507DA1444A",
-   "onsale_at": "2026-11-25T18:00:00Z",
+   "url": "https://www.ticketmaster.com/david-p-stevens-san-diego-california-02-21-2027/event/0A006574903454B8",
+   "onsale_at": "2026-11-23T18:00:00Z",
    "spotify_followers": null,
-   "city_dates": 2.0
+   "city_dates": 1.0
+  },
+  {
+   "show": "Herman Jackson",
+   "artist": "Jazz",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
+   "state": "CA",
+   "date": "2027-02-28",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/herman-jackson-san-diego-california-02-28-2027/event/0A0065749659604D",
+   "onsale_at": "2026-11-23T18:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 4.0
+  },
+  {
+   "show": "Day Ones ft. Miles Medina, Olea, & B4byLexiG1rl (18+)",
+   "artist": "Miles Medina",
+   "venue": "The Regent Theater",
+   "city": "Los Angeles",
+   "state": "CA",
+   "date": "2027-01-01",
+   "face_min": null,
+   "url": "https://www.ticketmaster.com/day-ones-ft-miles-medina-olea-los-angeles-california-01-01-2027/event/09006570BFFB88AC",
+   "onsale_at": "2026-11-23T18:00:00Z",
+   "spotify_followers": null,
+   "city_dates": 1.0
   }
  ],
  "movers": [],
@@ -243,50 +412,316 @@
   "mode": "full",
   "sources": {
    "ticketmaster": {
-    "ok": false,
-    "calls": 160,
+    "ok": true,
+    "calls": 186,
     "errors": 0,
     "last_error": null,
-    "events": 22213,
-    "failed_states": [
-     "CA",
-     "FL",
-     "IL",
-     "KS",
-     "MA",
-     "RI",
-     "TN"
-    ]
+    "events": 27195,
+    "failed_states": [],
+    "skipped_events": 0
    },
    "seatgeek": {
     "ok": true,
     "calls": 328,
     "errors": 0,
     "last_error": null,
-    "events": 29604,
+    "events": 29638,
     "failed_states": []
-   },
-   "spotify": {
-    "ok": true,
-    "calls": 818,
-    "errors": 21,
-    "last_error": "HTTP 429: {\"error\":{\"status\":429,\"message\":\"Too many requests\",\"reason\":\"QUOTA_EXCEEDED\"}}",
-    "found": 482,
-    "not_found": 227,
-    "missing_follower_fields": 482,
-    "queued": 908,
-    "captured": 709,
-    "backlog": 199
    }
   },
-  "notes": [
-   "Spotify returned artists but no follower or popularity numbers."
-  ],
-  "face_value_missing_pct": 79.6,
-  "match_rate_pct": 55.9,
-  "seatgeek_only_shows": 17191,
+  "notes": [],
+  "face_value_missing_pct": 78.5,
+  "match_rate_pct": 56.4,
+  "seatgeek_only_shows": 14299,
   "onsale_time_known_pct": 99.9,
-  "run_minutes": 97.9,
-  "ok": false
- }
+  "run_minutes": 7.2,
+  "seatgeek_status_values": {
+   "normal": 29638
+  },
+  "ok": true,
+  "watchlist": {
+   "second_show": 15,
+   "climber": 25,
+   "onsale_soon": 5,
+   "random": 15
+  }
+ },
+ "stubhub": {
+  "days_checked": 0,
+  "shows_with_prices": 0,
+  "rising": [],
+  "falling": []
+ },
+ "second_show_added": [
+  {
+   "artist": "Omni",
+   "venue": "Empty Bottle",
+   "city": "Chicago",
+   "state": "IL",
+   "original_date": "2027-02-11",
+   "added_date": "2027-02-12",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "A Charlie Brown Christmas w. Chris White Trio & Choir (Late)",
+   "venue": "SPACE",
+   "city": "Evanston",
+   "state": "IL",
+   "original_date": "2026-12-12",
+   "added_date": "2026-12-19",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "A Charlie Brown Christmas w. Chris White Trio & Choir (Early)",
+   "venue": "SPACE",
+   "city": "Evanston",
+   "state": "IL",
+   "original_date": "2026-12-12",
+   "added_date": "2026-12-19",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "A Charlie Brown Christmas w. Chris White Trio & Choir (Matinee)",
+   "venue": "SPACE",
+   "city": "Evanston",
+   "state": "IL",
+   "original_date": "2026-12-12",
+   "added_date": "2026-12-19",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Lil Ed & The Blues Imperials/Sheryl Youngblood Blues Band",
+   "venue": "Kingston Mines - Chicago Blues Center",
+   "city": "Chicago",
+   "state": "IL",
+   "original_date": "2026-12-18",
+   "added_date": "2026-12-19",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Jackpot - Las Vegas",
+   "venue": "RVLTN Events at LLAMA LOT",
+   "city": "Las Vegas",
+   "state": "NV",
+   "original_date": "2026-12-26",
+   "added_date": "2026-12-27",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Ashley Pezzotti",
+   "venue": "Jazzcultural",
+   "city": "New York",
+   "state": "NY",
+   "original_date": "2026-12-31",
+   "added_date": "2027-01-01",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Ashley Pezzotti",
+   "venue": "Jazzcultural",
+   "city": "New York",
+   "state": "NY",
+   "original_date": "2026-12-31",
+   "added_date": "2027-01-01",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Johnny O'Neal",
+   "venue": "Jazzcultural",
+   "city": "New York",
+   "state": "NY",
+   "original_date": "2026-12-31",
+   "added_date": "2027-01-01",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Johnny O'Neal",
+   "venue": "Jazzcultural",
+   "city": "New York",
+   "state": "NY",
+   "original_date": "2026-12-31",
+   "added_date": "2027-01-02",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Portugal. The Man",
+   "venue": "Metro",
+   "city": "Chicago",
+   "state": "IL",
+   "original_date": "2027-01-13",
+   "added_date": "2027-01-12",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Lightning Bolt",
+   "venue": "Empty Bottle",
+   "city": "Chicago",
+   "state": "IL",
+   "original_date": "2027-02-19",
+   "added_date": "2027-02-18",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Cody Johnson",
+   "venue": "MVP Arena",
+   "city": "Albany",
+   "state": "NY",
+   "original_date": "2027-03-13",
+   "added_date": "2027-03-12",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "CHVRCHES",
+   "venue": "Citizens House of Blues Boston",
+   "city": "Boston",
+   "state": "MA",
+   "original_date": "2027-04-03",
+   "added_date": "2027-04-04",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Dexter and The Moonrocks",
+   "venue": "Satellite Music Hall",
+   "city": "Memphis",
+   "state": "TN",
+   "original_date": "2027-04-12",
+   "added_date": "2027-04-13",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Mat Kearney",
+   "venue": "The Paramount Theater - Charlottesville",
+   "city": "Charlottesville",
+   "state": "VA",
+   "original_date": "2027-04-20",
+   "added_date": "2027-04-10",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Conor Oberst",
+   "venue": "Belly Up",
+   "city": "Solana Beach",
+   "state": "CA",
+   "original_date": "2027-04-25",
+   "added_date": "2027-04-26",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Conor Oberst",
+   "venue": "The Castro Theatre",
+   "city": "San Francisco",
+   "state": "CA",
+   "original_date": "2027-05-02",
+   "added_date": "2027-05-03",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Remi Wolf",
+   "venue": "The Van Buren",
+   "city": "Phoenix",
+   "state": "AZ",
+   "original_date": "2027-05-03",
+   "added_date": "2027-05-04",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Haute & Freddy",
+   "venue": "The Salt Shed Indoors (Shed)",
+   "city": "Chicago",
+   "state": "IL",
+   "original_date": "2027-05-09",
+   "added_date": "2027-05-10",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Haute & Freddy",
+   "venue": "Summit Music Hall - Denver",
+   "city": "Denver",
+   "state": "CO",
+   "original_date": "2027-05-14",
+   "added_date": "2027-05-15",
+   "added_seen": "2026-11-20"
+  },
+  {
+   "artist": "Atomic Groove",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "state": "CA",
+   "original_date": "2026-11-13",
+   "added_date": "2026-11-20",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Favela Encantada Worcester",
+   "venue": "158 Sports Grill Garage",
+   "city": "Worcester",
+   "state": "MA",
+   "original_date": "2026-11-13",
+   "added_date": "2026-11-20",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Boney James",
+   "venue": "The Southern Theater - Minneapolis, MN",
+   "city": "Minneapolis",
+   "state": "MN",
+   "original_date": "2026-11-19",
+   "added_date": "2026-11-24",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Boney James",
+   "venue": "The Southern Theater - Minneapolis, MN",
+   "city": "Minneapolis",
+   "state": "MN",
+   "original_date": "2026-11-19",
+   "added_date": "2026-11-24",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Dom Dolla",
+   "venue": "LIV Nightclub Las Vegas",
+   "city": "Las Vegas",
+   "state": "NV",
+   "original_date": "2026-11-21",
+   "added_date": "2026-11-19",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Hovvdy",
+   "venue": "The Blue Room - TN",
+   "city": "Nashville",
+   "state": "TN",
+   "original_date": "2026-11-20",
+   "added_date": "2026-11-21",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Peter Cincotti",
+   "venue": "Middle C Jazz",
+   "city": "Charlotte",
+   "state": "NC",
+   "original_date": "2026-11-21",
+   "added_date": "2026-11-22",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Disco Lines",
+   "venue": "LIV Nightclub Las Vegas",
+   "city": "Las Vegas",
+   "state": "NV",
+   "original_date": "2026-11-22",
+   "added_date": "2026-11-21",
+   "added_seen": "2026-11-19"
+  },
+  {
+   "artist": "Irish Christmas in America",
+   "venue": "Yoshi's Oakland",
+   "city": "Oakland",
+   "state": "CA",
+   "original_date": "2026-11-25",
+   "added_date": "2026-11-27",
+   "added_seen": "2026-11-19"
+  }
+ ]
 }
