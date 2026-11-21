@@ -2,7 +2,7 @@ name: Daily collect
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # 6:00 a.m. Eastern (standard time); GitHub schedules in UTC and can start a few minutes late
+    - cron: "23 9 * * *"   # 4:23 a.m. Eastern (standard time), off the top of the hour, which GitHub delays by hours; the StubHub check follows at 7:49
   workflow_dispatch:
     inputs:
       mode:

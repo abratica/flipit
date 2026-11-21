@@ -5,7 +5,7 @@ resell well above face value.
 
 ## How it works
 
-Every morning at 6:00 a.m. Eastern, a GitHub Action runs `python -m collector.run`:
+Every morning at about 4:23 a.m. Eastern, a GitHub Action runs `python -m collector.run`:
 
 1. **Find shows.** Every US concert on Ticketmaster and SeatGeek, up to 6 months out.
 2. **Match** the same show across both sources (same date and state, similar venue and artist).
