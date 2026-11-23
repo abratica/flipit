@@ -1,0 +1,11 @@
+show_id,status,face_min,face_max,first_seen_at,last_checked_at,tries,note
+sg:18786201,done,62.05,199.75,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax). Excluded Official Platinum $201.70-$332.60, VIP/M&G packages, verified resale."
+sg:18786207,done,47.7,66.1,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax); only standing-room tiers listed, seated sections not offered; price filter $47-$67"
+tm:G5diZ_pDmhPzd,done,69.0,225.05,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in pricing per event notice (fees incl, before tax). Excluded Official Platinum $304.75-$412.40, Chase cardholder tickets (same prices), verified resale. No standard floor/pit GA listed."
+tm:G5vYZ_p8L2haC,done,56.7,78.6,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax); 28 listings. Excluded Official Platinum $119.40-$179.40 and M&G $264."
+tm:vv170Z_pGkRoLLqF,done,79.35,1076.4,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax); no pre-fee toggle. $1076.40 is front-row A/C labeled Standard Admission, likely dynamic. Excluded VIP Merch $351.60, M&G $648, Ultimate VIP $1686."
+tm:vvG1HZ_924ETfI,done,49.59,91.6,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax). Excluded Official Platinum $118-$212.40, Royal Fools VIP $236.59, locked Citi cardmember tickets. Page also shows generic sold-out/resale notice."
+tm:vvG1HZ_95Rc2Ub,done,37.6,37.6,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"Single GA tier; all-in price (fees incl, before tax); price slider $37-$38"
+tm:vvG1HZ_pM77anw,done,84.75,506.8,2026-11-23T03:41:57+00:00,2026-11-23T03:41:57+00:00,1,"All-in prices (fees incl, before tax); 31 standard price points, dynamic pricing. Excluded VIP packages $459.90-$1439 and verified resale."
+tm:vvG1HZ_pmIFy2j,no_price,,,,2026-11-23T03:41:57+00:00,1,"Sold out: 'Tickets are sold out now. Check back soon.' Original Neptune Theatre listing moved to Paramount; same date as tm:vvG1HZ_924ETfI, likely duplicate event."
+tm:vvG1IZ_pljdnR0,no_price,,,,2026-11-23T03:41:57+00:00,1,Resale only: all 151 listings Verified Resale; Ticket Types filter offers only Verified Resale (qty 2 default)
