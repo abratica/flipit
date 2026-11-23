@@ -2,8 +2,9 @@
 
   python -m collector.face_task prepare [N]
       prints the worklist as JSON lines: up to N (default 40) upcoming shows at panel venues
-      (data/panel.csv) that have a Ticketmaster link and no face value recorded yet,
-      soonest on-sale first (shows already on sale first, then by on-sale date)
+      (data/panel.csv) that have a Ticketmaster link, are already on sale, and have no face value yet:
+      shows that went on sale in the last 14 days first (newest first), then the rest by show date.
+      Shows not on sale yet are left for a later run. New shows the collector adds each morning join automatically.
 
   python -m collector.face_task record face_results.jsonl
       appends the results to data/face/observations.csv (one row per price tier seen, every reading kept)
@@ -56,7 +57,14 @@ def prepare(n=40):
         if s and (s["status"] in ("done", "no_price") or int(s.get("tries") or 0) >= MAX_TRIES):
             continue
         todo.append(r)
-    todo.sort(key=lambda r: (r.get("onsale_at") or "9999", r["date"]))
+    # not on sale yet: leave it for a later run instead of spending a try
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    todo = [r for r in todo if (r.get("onsale_at") or "") <= now]
+    # just went on sale first (their first price is the cleanest face value), then the backlog by show date
+    recent = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=14)).isoformat(timespec="seconds")
+    fresh = sorted((r for r in todo if (r.get("onsale_at") or "") >= recent), key=lambda r: r["onsale_at"], reverse=True)
+    backlog = sorted((r for r in todo if (r.get("onsale_at") or "") < recent), key=lambda r: r["date"])
+    todo = fresh + backlog
     for r in todo[:n]:
         print(json.dumps({"show_id": r["show_id"], "artist": r["artist"], "name": r["name"],
                           "venue": r["venue_name"], "city": r["city"], "state": r["state"],
