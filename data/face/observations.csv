@@ -60,3 +60,238 @@ seen_at,show_id,tier,price,fees_included,tm_url
 2026-11-23T03:41:57+00:00,tm:G5diZ_pDmhPzd,"Standard Admission (208-214,221-225)",86.2,yes,https://www.ticketmaster.com/mau-p-presents-generation-rebrand-new-york-new-york-03-06-2027/event/3B00656EEE6E5E03
 2026-11-23T03:41:57+00:00,tm:G5diZ_pDmhPzd,"Standard Admission (210-213,222-225)",110.2,yes,https://www.ticketmaster.com/mau-p-presents-generation-rebrand-new-york-new-york-03-06-2027/event/3B00656EEE6E5E03
 2026-11-23T03:41:57+00:00,tm:G5diZ_pDmhPzd,"Standard Admission (105-109,115,117-119)",225.05,yes,https://www.ticketmaster.com/mau-p-presents-generation-rebrand-new-york-new-york-03-06-2027/event/3B00656EEE6E5E03
+2026-11-25T02:02:13+00:00,tm:1Av0Z_pGkVqhR7y,Standard Ticket (201-205),53.0,yes,https://www.ticketmaster.com/the-xscape-room-tour-phoenix-arizona-04-03-2027/event/1900656D1D6EF139
+2026-11-25T02:02:13+00:00,tm:1Av0Z_pGkVqhR7y,"Standard Ticket (1,7)",64.0,yes,https://www.ticketmaster.com/the-xscape-room-tour-phoenix-arizona-04-03-2027/event/1900656D1D6EF139
+2026-11-25T02:02:13+00:00,tm:1Av0Z_pGkVqhR7y,Standard Ticket (2-6),86.5,yes,https://www.ticketmaster.com/the-xscape-room-tour-phoenix-arizona-04-03-2027/event/1900656D1D6EF139
+2026-11-25T02:02:13+00:00,tm:1Av0Z_pGkVqhR7y,Standard Ticket (2-6),118.5,yes,https://www.ticketmaster.com/the-xscape-room-tour-phoenix-arizona-04-03-2027/event/1900656D1D6EF139
+2026-11-25T02:02:13+00:00,tm:G5vYZ_9fnqUMU,Standard Ticket (BALC),77.65,yes,https://www.ticketmaster.com/the-rap-show-live-celebrating-30-oakland-california-12-20-2026/event/1C0065752A776DF6
+2026-11-25T02:02:13+00:00,tm:G5vYZ_9fnqUMU,"Standard Ticket (BALC, ORREAR)",87.95,yes,https://www.ticketmaster.com/the-rap-show-live-celebrating-30-oakland-california-12-20-2026/event/1C0065752A776DF6
+2026-11-25T02:02:13+00:00,tm:G5vYZ_9fnqUMU,"Standard Ticket (MEZZ, ORCH, ORTERR)",99.8,yes,https://www.ticketmaster.com/the-rap-show-live-celebrating-30-oakland-california-12-20-2026/event/1C0065752A776DF6
+2026-11-25T02:02:13+00:00,tm:G5vYZ_9fnqUMU,Standard Ticket (PIT),120.4,yes,https://www.ticketmaster.com/the-rap-show-live-celebrating-30-oakland-california-12-20-2026/event/1C0065752A776DF6
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (TERR03,TERR04,TERR10,TERR25,TERR29,TERR30,TERR32)",67.7,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (TERR01,TERR02,TERR09,TERR10,TERR29,TERR31,TERR32)",71.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,Standard Admission (TERR01-08),92.95,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,Standard Admission (TERR01-08),95.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (MAIN02,MAIN04,MAIN06,MAIN28,MAIN30,MAIN32,TERR01,TERR02)",115.9,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,Standard Admission (TERR01-08),119.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (MAIN01,MAIN02,MAIN04,MAIN06,MAIN28,MAIN30,MAIN32,TERR01)",131.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB04,CLUB06,CLUB28,CLUB30,MAIN01-06)",137.75,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB04,CLUB06,CLUB28,CLUB30,MAIN01-06)",155.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB04-30,MAIN01,MAIN02,MAIN32)",184.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB08,CLUB09,CLUB10,CLUB24,CLUB25,CLUB26)",214.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB04-30,MAIN01,MAIN02)",215.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,Standard Admission (MAIN01),239.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB08,CLUB09,CLUB10,CLUB24,CLUB25,CLUB26)",251.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB26,CLUB30,MAIN02)",275.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB09,CLUB24,G)",299.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (CLUB10,J)",359.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (A,F)",479.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1ke8vPQ_GAC1MpX,"Standard Admission (A,C)",599.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-inglewood-california-04-30-2027/event/090065699E2B75BE
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (303-310),83.45,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (304-311),95.6,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (301-308),107.75,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (302-309),119.9,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (301,303,315,317,318,319,333,334)",132.05,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (304-312),133.6,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (202-209),144.25,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (101-109),180.7,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (302,303,315,316)",182.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (101-108),192.85,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (301,317,318,319,333,334)",219.0,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (101-109),241.5,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (102-110),253.65,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (103,109)",302.3,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (104,105,111,SEC5)",304.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Preferred Seating (109),314.45,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (103,109,SEC3)",341.0,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (101,102,110,122)",365.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (112,113)",426.4,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,"Standard Tickets (SEC1,SEC2)",475.2,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:vv1kvZvPQ9GACh3AW,Standard Tickets (SEC2),597.2,yes,https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-illinois-03-19-2027/event/040065697E6D217D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,Standard Admission (302-316),116.65,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,Standard Admission (106-120),140.9,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,Standard Admission (122),152.8,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,Standard Admission (102-116),178.55,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (104,106,120,122,124,DDD,FFF)",188.2,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (104,108,122,DDD,EEE)",211.8,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (102,124,126,128,146,148,DDD,EEE)",227.05,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (102,124,126,128,146,148,DDD,EEE)",235.4,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (128,146,148,DDD)",259.0,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (AAA,BBB,CCC)",272.45,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (AAA,BBB,CCC)",294.4,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (126,148,CCC)",377.0,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (128,146,AAA,CCC)",437.2,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pU930ac,"Standard Admission (128,146,AAA)",518.0,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-denver-colorado-04-27-2027/event/1E00656D974A426D
+2026-11-25T02:02:13+00:00,tm:G5vzZ_fDIoiiD,Standard Admission (202-232 club),142.2,yes,https://www.ticketmaster.com/club-level-seating-marc-anthony-denver-colorado-05-13-2027/event/1E00656B91514843
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,Standard Ticket (200/300 Level GA),53.0,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,Standard Ticket - Obstructed View (x),75.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,"Standard Ticket (301,302,303)",75.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,Standard Ticket - Obstructed View (x),97.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,"Standard Ticket (104,106,201,202,203,301,303)",97.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,"Standard Ticket (104,105,106)",118.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,"Standard Ticket (101,102,103)",139.5,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:G5dIZ_9dgiBly,"Standard Ticket (101,102,103)",172.0,yes,https://www.ticketmaster.com/la-mafia-houston-texas-02-19-2027/event/3A006570F5B3AAF9
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult - Obstructed View (x),97.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult (300-303),97.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult - Obstructed View (x),108.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult (300-303),108.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,"Standard Adult (200,202)",123.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult (100-103),180.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_9kRMFsL,Standard Adult (100-103),230.0,yes,https://www.ticketmaster.com/pesado-cardenales-de-nuevo-leon-dos-irving-texas-03-06-2027/event/0C006571AFDC8C5F
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pS-HQCf,Standard Admission (100),164.6,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-irving-texas-03-14-2027/event/0C00656CE1F1A394
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pS-HQCf,"Standard Admission (100,102)",200.0,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-irving-texas-03-14-2027/event/0C00656CE1F1A394
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,Standard Seating (300-303 (some obstructed)),35.24,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,Standard Seating (300-303 (some obstructed)),53.49,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,"Standard Seating (100,103,200,202)",75.99,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,Standard Seating (100-103),97.99,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,Standard Seating (100-103),118.99,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:vvG1YZ_pSxVB8i,Standard Seating (100-103),145.0,yes,https://www.ticketmaster.com/la-mafia-irving-texas-03-20-2027/event/0C00656CE2D3A42C
+2026-11-25T02:02:13+00:00,tm:G5dIZ_p20mrfY,Standard Ticket (200/300 Level GA),53.0,yes,https://www.ticketmaster.com/bigxthaplug-better-over-time-tour-houston-texas-03-30-2027/event/3A006563E4B9E530
+2026-11-25T02:02:13+00:00,tm:G5dIZ_p20mrfY,"Standard Ticket (Main Floor GA, 301-303 (some obstructed))",64.0,yes,https://www.ticketmaster.com/bigxthaplug-better-over-time-tour-houston-texas-03-30-2027/event/3A006563E4B9E530
+2026-11-25T02:02:13+00:00,tm:G5dIZ_p20mrfY,"Standard Ticket (201,202,203)",86.5,yes,https://www.ticketmaster.com/bigxthaplug-better-over-time-tour-houston-texas-03-30-2027/event/3A006563E4B9E530
+2026-11-25T02:02:13+00:00,sg:18786208,"Standard Ticket (RAIL-1,RAIL-9)",47.7,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18786208,"Standard Ticket (301,309)",53.05,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18786208,Standard Ticket (RAIL-2..RAIL-8),61.6,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18786208,"Standard Ticket (201,209)",66.1,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18786208,"Standard Ticket (Floor GA standing, 301-309)",78.75,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18786208,Standard Ticket (201-209),93.1,yes,https://www.ticketmaster.com/the-xscape-room-tour-boston-massachusetts-01-23-2027/event/0100656B51791A20
+2026-11-25T02:02:13+00:00,sg:18783869,Standard Ticket (301-308),119.9,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (301,302,316-334)",168.55,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,Standard Ticket (319),194.6,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (102,103,109,110,SEC4-9)",205.0,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,Standard Ticket (101-110),231.2,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (112,SEC4-6)",265.8,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (109,110)",267.8,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (113,121)",302.3,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (101,111,112,122,SEC5,SEC6)",304.4,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (101,113,121,122)",347.1,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,Standard Ticket (SEC1-3),406.25,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (SEC2,SEC3)",459.35,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (113,121,SEC1-3)",528.25,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18783869,"Standard Ticket (121,SEC3)",601.45,yes,https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400656DD5DD929E
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (301,309)",78.75,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (104,109,301-308)",93.1,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (201,209)",121.85,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,Standard Ticket (201-209),131.85,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,Standard Ticket (101),158.85,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,Standard Ticket (202),164.6,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (101,103)",177.6,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,Standard Ticket (101),211.2,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (MEZZR,MEZZL)",211.8,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (101,103)",234.8,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,sg:18777983,"Standard Ticket (MEZZR,MEZZL)",247.2,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-boston-massachusetts-03-10-2027/event/0100656518978775
+2026-11-25T02:02:13+00:00,tm:G5diZ_pf9JzJr,Standard Admission (208),188.2,yes,https://www.ticketmaster.com/westlife-25-the-anniversary-north-american-new-york-new-york-03-19-2027/event/3B006565179B899E
+2026-11-25T02:02:13+00:00,sg:18784709,"Standard Ticket (RAIL-2,3,7,8, 301,309)",107.5,yes,https://www.ticketmaster.com/santana-planet-of-free-will-global-boston-massachusetts-04-03-2027/event/01006569A02C7032
+2026-11-25T02:02:13+00:00,sg:18784709,Standard Ticket (301-308),121.85,yes,https://www.ticketmaster.com/santana-planet-of-free-will-global-boston-massachusetts-04-03-2027/event/01006569A02C7032
+2026-11-25T02:02:13+00:00,sg:18784709,"Standard Ticket (101,103,201-208)",173.1,yes,https://www.ticketmaster.com/santana-planet-of-free-will-global-boston-massachusetts-04-03-2027/event/01006569A02C7032
+2026-11-25T02:02:13+00:00,tm:1AvfZ_pGkmH2D5-,General Admission Standing (GA),49.99,yes,https://www.ticketmaster.com/noga-erez-duck-season-tour-2027-washington-district-of-columbia-04-04-2027/event/1500656BBC3FB2E1
+2026-11-25T02:02:13+00:00,tm:1AvfZ_pGkmH2D5-,"Super Excellent Seats reserved (TIERBC,TIERBL,TIERBR)",91.45,yes,https://www.ticketmaster.com/noga-erez-duck-season-tour-2027-washington-district-of-columbia-04-04-2027/event/1500656BBC3FB2E1
+2026-11-25T02:02:13+00:00,tm:k7vGF_pIE2sLT,Standard Ticket (BALCONY),98.0,yes,https://www.ticketmaster.com/noga-erez-duck-season-tour-2027-brooklyn-new-york-04-10-2027/event/0000656A273F17FF
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket - Limited View (ORCH5,ORCH8)",54.75,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (MEZZ1,MEZZ5)",54.75,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (LOGE1,LOGE5,MEZZ1-5,ORCH4)",60.1,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (MEZZ2-4,ORCH4-8)",71.25,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,Standard Ticket (LOGE1-5),81.75,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (LOGE2-4,ORCH4-9)",92.15,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (GBOX, ORCH1)",103.95,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (ORCH1,ORCH3)",118.9,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkd5RheJ,"Standard Ticket (ORCH1,ORCH3)",140.25,yes,https://www.ticketmaster.com/wxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027/event/02006569CBBDB0A6
+2026-11-25T02:02:13+00:00,tm:k7vGF_plFQReE,Standard Ticket (BALCONY),114.0,yes,https://www.ticketmaster.com/an-evening-with-dr-dog-brooklyn-new-york-04-13-2027/event/0000656AC86AF0A7
+2026-11-25T02:02:13+00:00,sg:18774293,"Standard Ticket (RAIL-1,RAIL-9,301,309)",52.55,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Standard Ticket (301-309,RAIL-2,3,7)",73.25,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Standard Ticket (104-109,202-207)",107.0,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Preferred Seating Aisle Offer (104,105,108,109)",112.0,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Standard Ticket (101-103,MEZZ)",143.35,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Preferred Seating Aisle Offer (101,103)",148.35,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,Standard Ticket (101-103),211.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,Preferred Seating Aisle Offer (101-103),216.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,"Standard Ticket (MEZZR,MEZZC,MEZZL)",234.8,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,Standard Ticket (102),293.8,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,sg:18774293,Standard Ticket (102),352.8,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-boston-massachusetts-04-15-2027/event/01006569D613E3AE
+2026-11-25T02:02:13+00:00,tm:k7vGF_pHudE5k,Standard Ticket (BALCONY),98.0,yes,https://www.ticketmaster.com/tori-kelly-god-must-really-love-brooklyn-new-york-04-18-2027/event/0000656F0D0E72C6
+2026-11-25T02:02:13+00:00,tm:k7vGF_p9n_eiB,Standard Ticket (BALCONY),104.0,yes,https://www.ticketmaster.com/bigxthaplug-better-over-time-tour-brooklyn-new-york-04-22-2027/event/00006565EA642B3A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkduHDQS,"Standard Ticket - Limited View (LBOX1,LBOX4,ORCH5,ORCH8)",54.75,yes,https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkduHDQS,"Standard Ticket (MEZZ1,MEZZ5)",54.75,yes,https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkduHDQS,"Standard Ticket (LOGE1,LOGE5,MEZZ1-5,ORCH9)",60.1,yes,https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkduHDQS,Standard Ticket (LOGE1-5),65.25,yes,https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3
+2026-11-25T02:02:13+00:00,tm:vv1AeZk4tGkduHDQS,"Standard Ticket (GBOX13,GBOX14,GBOX17,GBOX4)",71.25,yes,https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (301,309,RAIL)",107.95,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (301-307, Floor GA standing)",132.3,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (201,209)",159.3,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,Standard Ticket (201-209),198.05,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (MEZZR,MEZZL)",227.7,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (204,205)",282.0,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,Standard Ticket (MEZZC),305.6,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,sg:18830197,"Standard Ticket (MEZZR,MEZZC,MEZZL)",352.8,yes,https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-boston-massachusetts-04-14-2027/event/010065729949B21E
+2026-11-25T02:02:13+00:00,tm:G5vYZ_4lDDT0j,Standard Ticket - 18+ Only (General Admission),67.25,yes,https://www.ticketmaster.com/sullivan-king-18-san-francisco-california-02-27-2027/event/1C00655AFBEFF91C
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket - Limited View (ORCH5-8),53.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket (MEZZ1-5),53.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket (MEZZ2-4),64.25,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard Ticket (LOGE1,LOGE5)",69.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket (ORCH4-6),75.65,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard Ticket (LOGE1-5,ORCH4-6)",102.45,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket (GBOX),133.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard Ticket (LOGE2-4,ORCH1,ORCH3)",143.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard - Aisle Seat Offer (ORCH1,ORCH3)",151.25,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard Ticket (LBOX2,ORCH1-3)",152.25,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard - Aisle Seat Offer (ORCH1-3),157.25,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,Standard Ticket (ORCH1-3),211.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard - Aisle Seat Offer (ORCH1,ORCH3)",216.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard Ticket (GBOX1,GBOX18,GBOX2)",231.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:vv1AeZk40GkdbK5Fn,"Standard - Aisle Seat Offer (PIT1,PIT3)",236.75,yes,https://www.ticketmaster.com/bebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027/event/02006564D84CB22A
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pKRLpf6,Standard Admission (club 202-232),191.45,yes,https://www.ticketmaster.com/club-level-seating-feid-denver-colorado-03-31-2027/event/1E00656AD5757881
+2026-11-25T02:02:13+00:00,tm:k7vGF_p91iGVV,Early Bird - General Admission Dance Floor,25.0,no,https://www.universe.com/events/reggae-fest-new-years-eve-all-black-affair-at-bk-paramount-tickets-850BPG
+2026-11-25T02:02:13+00:00,tm:G5vzZ_pn-tfxl,Standard Admission (club 202-232),128.5,yes,https://www.ticketmaster.com/club-level-seating-dancing-with-the-denver-colorado-03-19-2027/event/1E00656AA1A548AB
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,Standard Admission (MEZ31-35),103.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,Standard Admission (MEZ21-25),126.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,"Loge Seating (LOGEL,LOGER)",160.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,"Standard Admission (MEZ11-15,MF1-3)",160.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,"Standard Ticket - Limited View (MF1,MF4)",218.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,Standard Admission (MF1-4),218.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qWars,"Standard Admission (MF2,MF3)",294.6,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-14-2027/event/0F006562DDF497B1
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,Standard Admission (MEZ31-35),103.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,Standard Admission (MEZ21-25),126.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,"Loge Seating (LOGEL,LOGER)",160.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,"Standard Admission (MEZ11-15,MF1-3)",160.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,"Standard Ticket - Limited View (MF1,MF4)",218.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,Standard Admission (MF1-4),218.1,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_p5qXtLk,Standard Admission (MF3),294.6,yes,https://www.ticketmaster.com/ar-rahman-seattle-washington-05-15-2027/event/0F006562DDFA97C6
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (304-311),104.7,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (304-311),129.05,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (203-212),153.35,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (102-110,201,202)",177.65,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (101-109),214.15,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (102,110)",239.1,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (101-122),250.6,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (101,107,110,111,SEC7,SEC9)",251.3,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (102-110),281.8,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (102-110,SEC4,SEC6)",312.3,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (101,111)",342.8,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (112,122)",373.3,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (112,122)",403.8,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (SEC5,SEC6)",409.9,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,"Adult Standard (113,121)",483.1,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (121),519.7,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (112),611.2,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (SEC1),653.9,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (SEC1),690.5,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,sg:18753480,Adult Standard (SEC2),1110.2,yes,https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550AFD1AD9E
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_31fTEps,"Loge Seating (LOGEL,LOGER)",67.6,yes,https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00656ADC9AD2F0
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_31fTEps,Standard Admission (MEZ11-23),67.6,yes,https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00656ADC9AD2F0
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_31fTEps,Standard Admission (MEZ11-15),76.7,yes,https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00656ADC9AD2F0
+2026-11-25T02:02:13+00:00,tm:vvG1HZ_31fTEps,"Standard Admission (MEZ12,MEZ13)",88.5,yes,https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00656ADC9AD2F0
+2026-11-25T02:02:13+00:00,sg:18753253,Standard Ticket (304-312),71.3,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,Standard Ticket (303-314),83.45,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (305,306,312,313)",84.8,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,Standard Ticket (303-314),97.0,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,Standard Ticket (301-319),107.75,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (307,310,314)",109.2,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,Standard Ticket (203-211),121.4,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (103-109,201-205)",132.05,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (301,303,316,318,333)",133.6,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (104-109,201-206)",151.9,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (209,214,216)",158.0,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (101,102,110,111,SEC4,SEC6)",168.55,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (101,102,110,111,SEC5)",188.5,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (112,113,121,122,SEC4,SEC6)",205.0,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
+2026-11-25T02:02:13+00:00,sg:18753253,"Standard Ticket (113,122,SEC4-6)",231.2,yes,https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04006564BDE784EF
