@@ -74,9 +74,11 @@ AR|arcbest corporation performing arts center fort smith,ArcBest Corporation Per
 AR|church rock creek,The Church at Rock Creek,Little Rock,AR,rZ7HnEZ17_8Jd,286224,,,2026-11-02
 AR|collins theater paragould,Collins Theatre - Paragould,Paragould,AR,,194022,,,2026-11-19
 AR|crystal bridges museum of american art,Crystal Bridges Museum of American Art,Bentonville,AR,,73049,,,2026-11-02
+AR|donald w reynolds razorback stadium,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,KovZpZA77IeA,2750,76212,seatgeek,2026-11-25
 AR|eacc fine arts center,EACC Fine Arts Center,Forrest City,AR,,110221,,,2026-11-02
 AR|east arkansas community college fine arts center,East Arkansas Community College Fine Arts Center,Forrest City,AR,,27023,,,2026-11-02
 AR|eureka springs city auditorium,Eureka Springs City Auditorium,Eureka Springs,AR,,12733,,,2026-11-24
+AR|fayetteville town center,Fayetteville Town Center,Fayetteville,AR,,59687,,,2026-11-25
 AR|first financial music hall,First Financial Music Hall,El Dorado,AR,,520821,,,2026-11-02
 AR|first national bank arena,First National Bank Arena,Jonesboro,AR,KovZpZAE7FaA,4081,10475,seatgeek,2026-11-02
 AR|first security amphitheater,First Security Amphitheater,Little Rock,AR,KovZpZA1eEeA,,,,2026-11-02
@@ -201,7 +203,7 @@ AZ|stand up az,Stand Up Live - AZ,Phoenix,AZ,,78324,,,2026-11-11
 AZ|state farm stadium,State Farm Stadium,Glendale,AZ,ZFr9jZA77k,43,63400,seatgeek,2026-11-02
 AZ|steele indian school park,Steele Indian School Park,Phoenix,AZ,,49024,,,2026-11-19
 AZ|stratus event center,Stratus Event Center,Phoenix,AZ,KovZ917AmzG,105194,,,2026-11-15
-AZ|sunbar tempe,Sunbar Tempe,Tempe,AZ,,514796,,,2026-11-02
+AZ|sunbar tempe,Sunbar Tempe,Tempe,AZ,Z7r9jZa7Qp,514796,,,2026-11-02
 AZ|talking stick resort,Talking Stick Resort,Scottsdale,AZ,KovZpZA1eAlA,3581,,,2026-11-02
 AZ|talking stick resort amphitheater,Talking Stick Resort Amphitheatre,Phoenix,AZ,KovZpZAE6vJA,143,20000,seatgeek,2026-11-02
 AZ|tempe beach park,Tempe Beach Park,Tempe,AZ,KovZpZAAFnFA,173,,,2026-11-02
@@ -592,7 +594,7 @@ CA|near and arnold s school of performing arts and cultural education,Near and A
 CA|neck of woods,Neck of the Woods,San Francisco,CA,rZ7HnEZ17f-ug,9737,,,2026-11-02
 CA|new parkway theater,The New Parkway Theater,Oakland,CA,,116675,,,2026-11-02
 CA|nile theater,Nile Theatre,Bakersfield,CA,,13730,,,2026-11-19
-CA|nile theater ca,The Nile Theater  - CA,Bakersfield,CA,Z7r9jZaAfw,,,,2026-11-07
+CA|nile theater ca,The Nile Theater  - CA,Bakersfield,CA,Z7r9jZaAfw,13730,,,2026-11-07
 CA|north island credit union amphitheater,North Island Credit Union Amphitheatre,Chula Vista,CA,KovZpa2WZe,51,19492,seatgeek,2026-11-02
 CA|nos events center,NOS Events Center,San Bernardino,CA,KovZpZAJa7aA,3848,,,2026-11-07
 CA|nova sd,NOVA SD,San Diego,CA,rZ7HnEZ17f6Fg,520749,,,2026-11-02
@@ -784,6 +786,7 @@ CA|toyota amphitheater,Toyota Amphitheatre,Wheatland,CA,KovZpaFEIe,50,18500,seat
 CA|toyota arena,Toyota Arena,Ontario,CA,KovZpZAkEFlA,257,10832,seatgeek,2026-11-04
 CA|toyota arena ca,Toyota Arena-CA,Ontario,CA,ZFr9jZk1a7,257,10832,seatgeek,2026-11-07
 CA|toyota arena ontario,Toyota Arena - Ontario,Ontario,CA,,257,10832,seatgeek,2026-11-02
+CA|toyota pavilion concord,Toyota Pavilion at Concord,Concord,CA,KovZpZA7kdlA,149,,,2026-11-25
 CA|transplants brewing company,Transplants Brewing Company,Palmdale,CA,rZ7HnEZ173__A,519885,,,2026-11-02
 CA|troubadour,Troubadour,West Hollywood,CA,ZFr9jZeFAd,764,500,seatgeek,2026-11-04
 CA|troubadour west hollywood,Troubadour - West Hollywood,West Hollywood,CA,,764,500,seatgeek,2026-11-02
@@ -1115,6 +1118,7 @@ FL|centro asturiano de tampa,Centro Asturiano de Tampa,Tampa,FL,,230662,,,2026-1
 FL|centro olimpico,Centro Olímpico,Santo Domingo Dominican Republic,FL,KovZ917AVnA,,,,2026-11-19
 FL|century village,Century Village,Boca Raton,FL,,76863,,,2026-11-22
 FL|ceremony brewing,Ceremony Brewing,Bonita Springs,FL,rZ7HnEZ17O8AV,,,,2026-11-19
+FL|charlotte county fairgrounds,Charlotte County Fairgrounds,Port Charlotte,FL,,76053,,,2026-11-25
 FL|charlotte harbor event and conference center,Charlotte Harbor Event and Conference Center,Punta Gorda,FL,KovZpZAFAnnA,6134,,,2026-11-02
 FL|church in son,Church in the Son,Orlando,FL,rZ7HnEZ173_r4,,,,2026-11-20
 FL|churchill s pub,Churchill's Pub, Miami,FL,rZ7HnEZ17rZAV,9929,,,2026-11-02
@@ -1495,7 +1499,7 @@ GA|macon coliseum,Macon Coliseum,Macon,GA,KovZpZAFAlaA,1192,,,2026-11-16
 GA|madlife stage and studios,Madlife Stage & Studios,Woodstock,GA,,212153,,,2026-11-02
 GA|marigold auditorium for arts and culture,Marigold Auditorium for Arts and Culture,Winterville,GA,Z7r9jZakEi,1626066,,,2026-11-14
 GA|masquerade altar,The Masquerade  - Altar,Atlanta,GA,KovZ917AmQG,1608713,,,2026-11-02
-GA|masquerade heaven,The Masquerade - Heaven,Atlanta,GA,KovZpa2WHe,437647,,,2026-11-02
+GA|masquerade heaven,The Masquerade - Heaven,Atlanta,GA,KovZpa2WHe,437647,2600,seatgeek,2026-11-02
 GA|masquerade hell,The Masquerade - Hell,Atlanta,GA,KovZ917AOz0,425,,,2026-11-02
 GA|masquerade music park,The Masquerade Music Park,Atlanta,GA,KovZpZAFkkEA,6228,,,2026-11-02
 GA|masquerade purgatory,The Masquerade - Purgatory,Atlanta,GA,KovZ917AOzm,6490,,,2026-11-02
@@ -1703,6 +1707,7 @@ IL|event center rivers casino des plaines,The Event Center at Rivers Casino Des 
 IL|festival hall navy pier,Festival Hall At Navy Pier,Chicago,IL,Z7r9jZaADX,7062,,,2026-11-02
 IL|fitzgerald s,FitzGerald's,Berwyn,IL,rZ7HnEZaFZm,,,,2026-11-19
 IL|fitzgeralds nightclub,FITZGERALDS NIGHTCLUB,Berwyn,IL,rZ7HnEZ17f7Z4,3504,,,2026-11-02
+IL|fitzgeralds patio,FITZGERALDS PATIO,Berwyn,IL,rZ7HnEZ17f7ZP,,,,2026-11-25
 IL|fitzgeralds sidebar,FITZGERALDS SIDEBAR,Berwyn,IL,rZ7HnEZ17f7Zg,,,,2026-11-02
 IL|five points caterpillar performing arts center,Five Points Caterpillar Performing Arts Center,Washington,IL,,320707,,,2026-11-02
 IL|forge,The Forge,Joliet,IL,rZ7HnEZ178Uv4,,,,2026-11-02
@@ -1962,7 +1967,7 @@ KY|grand theater,Grand Theatre,Frankfort,KY,,13797,,,2026-11-02
 KY|headliners music hall,Headliners Music Hall,Louisville,KY,ZFr9jZA6A7,359,,,2026-11-02
 KY|historic state theater complex,The Historic State Theater Complex,Elizabethtown,KY,,13714,,,2026-11-02
 KY|international bluegrass music museum,International Bluegrass Music Museum,Owensboro,KY,,44187,,,2026-11-02
-KY|iroquois amphitheater,Iroquois Amphitheater,Louisville,KY,KovZpZAaIFkA,,,,2026-11-24
+KY|iroquois amphitheater,Iroquois Amphitheater,Louisville,KY,KovZpZAaIFkA,2482,,,2026-11-24
 KY|kentucky center brown theater,Kentucky Center ??? Brown Theatre,Louisville,KY,Z7r9jZak4l,738,,,2026-11-02
 KY|kentucky center whitney hall,Kentucky Center - Whitney Hall,Louisville,KY,ZFr9jZeaFF,1489,2406,seatgeek,2026-11-02
 KY|kentucky horse park,Kentucky Horse Park,Lexington,KY,,32944,,,2026-11-19
@@ -2193,6 +2198,7 @@ MA|wilbur,The Wilbur,Boston,MA,KovZpZAEAIvA,1326,,,2026-11-02
 MA|zeiterion performing arts center,Zeiterion Performing Arts Center,New Bedford,MA,,783,,,2026-11-02
 MA|zeiterion theater ma,Zeiterion Theatre-MA,New Bedford,MA,ZFr9jZ6a6a,783,,,2026-11-02
 MD|8x10 baltimore,The 8x10 - Baltimore,Baltimore,MD,,467493,,,2026-11-19
+MD|allegany county fairgrounds,Allegany County Fairgrounds,Cumberland,MD,,5747,,,2026-11-25
 MD|american visionary art museum,American Visionary Art Museum,Baltimore,MD,,31373,,,2026-11-19
 MD|apg federal credit union arena,APG Federal Credit Union Arena,Bel Air,MD,,73979,,,2026-11-19
 MD|arts barn,Arts Barn,Gaithersburg,MD,,56049,,,2026-11-19
@@ -2310,6 +2316,7 @@ MI|fox theater detroit,Fox Theatre Detroit,Detroit,MI,KovZpZA6kdtA,1195,,,2026-1
 MI|frauenthal center for performing arts,Frauenthal Center For The Performing Arts,Muskegon,MI,,4826,,,2026-11-08
 MI|garden theater midtown,Garden Theater at Midtown,Detroit,MI,rZ7HnEZ17aPb0,14353,,,2026-11-02
 MI|glc 20 monroe,GLC Live at 20 Monroe,Grand Rapids,MI,KovZ917AGpf,419794,2600,seatgeek,2026-11-02
+MI|grand venue,The Grand Venue,Detroit,MI,,487700,,,2026-11-25
 MI|great lakes center for arts,Great Lakes Center for the Arts,Bay Harbor,MI,,516016,,,2026-11-08
 MI|green door,The Green Door,Lansing,MI,,173103,,,2026-11-08
 MI|grewal hall,Grewal Hall,Lansing,MI,Z7r9jZaA6s,522078,,,2026-11-02
@@ -2791,7 +2798,7 @@ ND|belle mehus auditorium,Belle Mehus Auditorium,Bismarck,ND,ZFr9jZk6Fe,1691,,,2
 ND|bismarck event center,Bismarck Event Center,Bismarck,ND,Z6r9jZeaae,507,,,2026-11-02
 ND|chester fritz performing arts center,Chester Fritz Performing Arts Center,Grand Forks,ND,KovZpZAF7I7A,3737,,,2026-11-02
 ND|dakota magic casino,Dakota Magic Casino,Hankinson,ND,,1061,,,2026-11-02
-ND|empire arts center,Empire Arts Center,Grand Forks,ND,,4509,,,2026-11-22
+ND|empire arts center,Empire Arts Center,Grand Forks,ND,KovZpa3eje,4509,,,2026-11-22
 ND|fargo theater,Fargo Theatre,Fargo,ND,KovZpZAF7tFA,2214,,,2026-11-02
 ND|fargodome,Fargodome,Fargo,ND,KovZpZAF76IA,177,19000,seatgeek,2026-11-02
 ND|prairie knights casino,Prairie Knights Casino,Fort Yates,ND,,8388,,,2026-11-02
@@ -2949,6 +2956,7 @@ NJ|williams center black box rutherford,Williams Center - Black Box - Rutherford
 NJ|williams center cug cantina rutherford,Williams Center - CUG Cantina - Rutherford,Rutherford,NJ,rZ7HnEZ17jM4S,,,,2026-11-02
 NJ|williams center rivoli theater rutherford,Williams Center - Rivoli Theater - Rutherford,Rutherford,NJ,rZ7HnEZ17_Sad,,,,2026-11-02
 NJ|williams center spring hall rutherford,Williams Center - Spring Hall - Rutherford,Rutherford,NJ,rZ7HnEZ17_SaK,,,,2026-11-24
+NJ|williams center williams center lounge,Williams Center - Williams Center Lounge,Rutherford,NJ,rZ7HnEZ17_VPS,,,,2026-11-25
 NJ|wonder bar,The Wonder Bar,Asbury Park,NJ,KovZpZAdnEtA,3403,,,2026-11-02
 NM|backstage revel,Backstage at Revel,Albuquerque,NM,,1608607,,,2026-11-02
 NM|balloon fiesta park,Balloon Fiesta Park,Albuquerque,NM,Z7r9jZaeRf,9584,,,2026-11-12
@@ -3106,6 +3114,7 @@ NV|usual place,THE USUAL PLACE ,Las Vegas ,NV,rZ7HnEZ17Ooof,,,,2026-11-05
 NV|v theater planet hollywood inside miracle mile mall,V Theater at Planet Hollywood Inside the Miracle Mile Mall,Las Vegas,NV,KovZpZAJ666A,4361,5067,seatgeek,2026-11-02
 NV|veil pavilion silverton casino,Veil Pavilion at Silverton Casino,Las Vegas,NV,KovZ917AVOO,,,,2026-11-02
 NV|venetian theater venetian resort,The Venetian Theatre at The Venetian Resort,Las Vegas,NV,KovZpZAF6vnA,4358,,,2026-11-02
+NV|voltaire venetian resort,Voltaire at The Venetian Resort,Las Vegas,NV,KovZ917AcQF,,,,2026-11-25
 NV|we all scream,We All Scream,Las Vegas,NV,,1608632,,,2026-11-02
 NV|westgate cabaret westgate las vegas resort and casino,Westgate Cabaret at Westgate Las Vegas Resort and Casino,Las Vegas,NV,,8942,,,2026-11-02
 NV|westgate las vegas cabaret theater,Westgate Las Vegas Cabaret Theater,Las Vegas,NV,KovZpZAJFnvA,,,,2026-11-02
@@ -3230,6 +3239,7 @@ NY|hart theater egg,Hart Theatre at The Egg,Albany,NY,ZFr9jZ6F6a,1146,982,seatge
 NY|hazlitt 1852 vineyards,Hazlitt 1852 Vineyards,Hector,NY,,114854,,,2026-11-19
 NY|helium comedy club buffalo,Helium Comedy Club - Buffalo,Buffalo,NY,,55100,,,2026-11-02
 NY|hill country,Hill Country Live,New York,NY,rZ7HnEZ178PbA,7705,450,seatgeek,2026-11-02
+NY|hk hall,HK Hall,New York,NY,,1608770,,,2026-11-25
 NY|house of yes,House of Yes,Brooklyn,NY,,36557,,,2026-11-11
 NY|infosys theater madison square garden,Infosys Theater at Madison Square Garden,New York,NY,KovZpZA7kvlA,2513,,,2026-11-02
 NY|inkwell harbor club rooftop,The INKwell Harbor-Club Rooftop,New York,NY,KovZ917AEbX,520197,,,2026-11-02
@@ -3964,6 +3974,7 @@ SC|harvest church,Harvest Church,Lexington,SC,,455656,,,2026-11-22
 SC|house of blues myrtle beach,House of Blues Myrtle Beach,North Myrtle Beach,SC,KovZpZAEkeIA,296,,,2026-11-02
 SC|icehouse amphitheater,Icehouse Amphitheater,Lexington,SC,,430572,,,2026-11-02
 SC|koger center for arts,Koger Center for the Arts,Columbia,SC,ZFr9jZ7eAA,,,,2026-11-02
+SC|mockingbird peace center sc,The Mockingbird at The Peace Center - SC,Greenville,SC,,1614359,,,2026-11-25
 SC|mt horeb church,Mt. Horeb Church,Lexington,SC,rZ7HnEZ17jVOK,6356,,,2026-11-02
 SC|music farm,Music Farm,Charleston,SC,KovZpZA7eJkA,1115,,,2026-11-02
 SC|new brookland tavern,New Brookland Tavern,West Columbia,SC,,4992,,,2026-11-02
@@ -4632,6 +4643,7 @@ VA|eaglebank arena,EagleBank Arena,Fairfax,VA,KovZpZAE76EA,804,10000,seatgeek,20
 VA|eastlake community church moneta,Eastlake Community Church - Moneta,Moneta,VA,,1622593,,,2026-11-02
 VA|el ranchon,El Ranchon,Woodbridge,VA,,446399,,,2026-11-22
 VA|elevation 27,Elevation 27,Virginia Beach,VA,KovZ917Axcj,312989,,,2026-11-02
+VA|elmwood park amphitheater,Elmwood Park Amphitheater,Roanoke,VA,,14799,,,2026-11-25
 VA|ember music hall,Ember Music Hall,Richmond,VA,Z7r9jZaAqh,520612,,,2026-11-02
 VA|exchange roanoke,The Exchange - Roanoke,Roanoke,VA,,1612973,,,2026-11-02
 VA|ferguson center for arts concert hall,Ferguson Center for the Arts Concert Hall,Newport News,VA,ZFr9jZAvve,798,,,2026-11-02
@@ -4817,13 +4829,15 @@ WI|american family insurance amphitheater summerfest grounds,American Family Ins
 WI|annex red zone madison,The Annex at The Red Zone Madison,Madison,WI,,519334,,,2026-11-02
 WI|appleton beer factory,Appleton Beer Factory,Appleton,WI,Z7r9jZa7YV,83227,,,2026-11-02
 WI|argo,The Argo,Whitefish Bay,WI,Z7r9jZakhJ,1609697,,,2026-11-02
-WI|ashwaubenon performing arts center,Ashwaubenon Performing Arts Center,Green Bay,WI,,446155,,,2026-11-03
+WI|ashwaubenon performing arts center,Ashwaubenon Performing Arts Center,Green Bay,WI,Z7r9jZadqU,446155,,,2026-11-03
 WI|atwood music hall,Atwood Music Hall,Madison,WI,,1609124,,,2026-11-02
 WI|atwood music hall wi,Atwood Music Hall-WI,Madison,WI,Z7r9jZak1u,1609124,,,2026-11-02
 WI|barrymore theater,Barrymore Theatre,Madison,WI,KovZpZAaE7dA,1182,,,2026-11-02
 WI|bend theater,The Bend Theater,West Bend,WI,,1609873,,,2026-11-02
 WI|bur oak,The Bur Oak,Madison,WI,Z7r9jZa7-c,519262,,,2026-11-02
 WI|cactus club,Cactus Club,Milwaukee,WI,Z7r9jZa7hx,9545,,,2026-11-02
+WI|camp randall,Camp Randall,Madison,WI,Z6r9jZd6Ae,,,,2026-11-25
+WI|camp randall stadium,Camp Randall Stadium,Madison,WI,KovZpZA17lEA,2814,80321,seatgeek,2026-11-25
 WI|capitol civic centre,Capitol Civic Centre,Manitowoc,WI,,3240,,,2026-11-19
 WI|capitol theater overture center,Capitol Theater - Overture Center,Madison,WI,ZFr9jZ7AFd,9347,,,2026-11-02
 WI|caribou room menomonee falls,Caribou Room - Menomonee Falls,Menomonee Falls,WI,,1620714,,,2026-11-02
@@ -4920,6 +4934,8 @@ WV|marshall health network arena formerly mountain health arena,Marshall Health 
 WV|metropolitan theater,Metropolitan Theatre,Morgantown,WV,KovZpZA7v7tA,3916,,,2026-11-02
 WV|purple fiddle,The Purple Fiddle,Thomas,WV,,10072,,,2026-11-02
 WV|robinson grand performing arts center,Robinson Grand Performing Arts Center,Clarksburg,WV,,515844,,,2026-11-02
+WV|sagebrush roundup country music hall,Sagebrush Roundup Country Music Hall,Fairmont,WV,,351803,,,2026-11-25
+WV|seatgeek football club stadium,SeatGeek Football Club Stadium,Sutton,WV,,1609170,,,2026-11-25
 WV|showroom wheeling island,The Showroom at Wheeling Island,Wheeling,WV,KovZpZAdE1kA,226144,,,2026-11-02
 WV|tipsy teeze music hall,Tipsy Teeze Music Hall,Morgantown,WV,,1608118,,,2026-11-05
 WV|warehouse church,The Warehouse Church,Parkersburg,WV,rZ7HnEZ17qdAS,217889,,,2026-11-02
