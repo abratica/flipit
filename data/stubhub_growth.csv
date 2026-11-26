@@ -1,58 +1,59 @@
 show_id,artist,venue,city,state,date,first_day,first_price,latest_price,growth,days,cheapest_listings_gone_overnight
 tm:vv177Z_4GkwLmmiX,.tribe ( 21+ ),Big Night Live,Boston,MA,2026-11-25,2026-11-20,56.0,91.0,1.62,6,0.75
-sg:18762145,The Radio Dept.,Webster Hall,New York,NY,2027-05-10,2026-11-20,142.0,204.0,1.44,6,0.0
-tm:vv177Z_pGklCqrW5,Moneybagg Yo,Memoire,Everett,MA,2026-12-11,2026-11-20,50.0,66.0,1.32,6,0.38
-tm:Z7r9jZ1AA7yJ3,Warren Haynes,Heinz Hall,Pittsburgh,PA,2027-03-30,2026-11-20,70.0,89.0,1.27,4,1.0
-tm:k7vGF_4nHl9NN,Cody Johnson,MVP Arena,Albany,NY,2027-03-13,2026-11-20,93.0,110.0,1.18,6,0.12
+sg:18762145,The Radio Dept.,Webster Hall,New York,NY,2027-05-10,2026-11-20,142.0,212.0,1.49,7,0.0
+tm:vv177Z_pGklCqrW5,Moneybagg Yo,Memoire,Everett,MA,2026-12-11,2026-11-20,50.0,69.0,1.38,7,0.25
+tm:Z7r9jZ1AA7yJ3,Warren Haynes,Heinz Hall,Pittsburgh,PA,2027-03-30,2026-11-20,70.0,88.0,1.26,5,0.0
+tm:k7vGF_4nHl9NN,Cody Johnson,MVP Arena,Albany,NY,2027-03-13,2026-11-20,93.0,115.0,1.24,7,0.12
+sg:18674837,Calvin Harris,Ariat Arena,Fort Worth,TX,2027-04-24,2026-11-20,331.0,372.0,1.12,7,0.12
+sg:18674845,Calvin Harris,Moody Center ATX,Austin,TX,2027-04-25,2026-11-20,208.0,233.0,1.12,7,0.0
 tm:k7vGF_pl5MLgi,EJAE,Bowery Ballroom,New York,NY,2026-12-14,2026-11-20,172.0,193.0,1.12,3,0.0
-sg:18762264,Decadent 80s Dance Party,McMenamins Crystal Ballroom,Portland,OR,2026-11-27,2026-11-20,20.0,22.0,1.1,6,0.62
-sg:18674837,Calvin Harris,Ariat Arena,Fort Worth,TX,2027-04-24,2026-11-20,331.0,357.0,1.08,6,0.12
-sg:18674845,Calvin Harris,Moody Center ATX,Austin,TX,2027-04-25,2026-11-20,208.0,224.0,1.08,6,0.0
-sg:18389542,Dark Star Orchestra,War Memorial Auditorium-FL,Fort Lauderdale,FL,2026-12-03,2026-11-20,74.0,78.0,1.05,6,0.0
-tm:G5viZ_ploiLrd,Garth Brooks,Simmons Bank Arena,North Little Rock,AR,2027-02-05,2026-11-20,206.0,213.0,1.03,6,0.5
-sg:18665782,Jason Boland & The Stragglers,Cain's Ballroom - Tulsa,Tulsa,OK,2026-11-27,2026-11-20,41.0,41.0,1.0,6,0.38
-tm:vvG1HZ_pCJ9UGB,Hair Nation,Suquamish Clearwater Beach Rock Music & Sports Lounge,Suquamish,WA,2027-01-01,2026-11-20,30.0,30.0,1.0,6,0.12
-tm:Z7r9jZ1AAZpqt,Wyatt Flores,Cain's Ballroom,Tulsa,OK,2026-12-31,2026-11-20,176.0,174.0,0.99,6,0.25
-sg:18762810,Matthew Morrison,Lone Tree Arts Center,Lone Tree,CO,2027-01-15,2026-11-20,222.0,219.0,0.99,6,0.0
-tm:k7vGF_fSxRnwp,Zach Bryan,MetLife Stadium,East Rutherford,NJ,2027-05-14,2026-11-20,95.0,93.0,0.98,6,0.25
-sg:18763089,Jon Pardi,The Truth,Nashville,TN,2026-12-17,2026-11-20,82.0,80.0,0.98,6,0.12
-tm:vvG1zZ_pwZ97kW,Moneybagg Yo,Columbus Civic Center,Columbus,GA,2026-12-19,2026-11-20,64.0,63.0,0.98,6,0.0
-sg:18711214,Zach Bryan,Soldier Field,Chicago,IL,2027-05-07,2026-11-20,94.0,91.0,0.97,6,0.38
-tm:Z7r9jZ1AA7oZ9,Shane Smith and the Saints,Cain's Ballroom,Tulsa,OK,2026-12-03,2026-11-20,61.0,59.0,0.97,6,0.38
-tm:G5viZ_plKWTt5,Garth Brooks,Simmons Bank Arena,North Little Rock,AR,2027-02-06,2026-11-20,81.0,78.0,0.96,6,0.38
-sg:18761710,OMNOM,Shrine Expo Hall,Los Angeles,CA,2027-02-05,2026-11-20,76.0,73.0,0.96,6,0.0
-tm:rZ7HnEZ1AfaZa0,Hans Williams,Tipitina's,New Orleans,LA,2027-04-10,2026-11-20,49.0,47.0,0.96,6,0.0
-sg:18760671,Deftones,Hollywood Bowl,Hollywood,CA,2027-05-18,2026-11-20,111.0,105.0,0.95,6,0.5
-sg:18754928,Widespread Panic,The Truth,Nashville,TN,2027-02-11,2026-11-20,162.0,154.0,0.95,6,0.12
-tm:16dZZ_p3oG7m3PL,Feid,Barclays Center,Brooklyn,NY,2027-03-03,2026-11-20,93.0,87.0,0.94,6,0.12
-sg:18762262,Trampled by Turtles,McMenamins Crystal Ballroom,Portland,OR,2027-02-19,2026-11-20,90.0,85.0,0.94,6,0.0
-sg:18645457,Evnne,Theatre of Living Arts,Philadelphia,PA,2027-01-26,2026-11-20,94.0,88.0,0.94,6,0.0
-sg:18689173,Cyclops,Peabody's Nightclub,Virginia Beach,VA,2027-04-10,2026-11-20,44.0,41.0,0.93,6,0.0
-tm:G5vzZ_954pzlY,Ohgeesy,Rio Rancho Events Center,Rio Rancho,NM,2027-03-20,2026-11-21,176.0,163.0,0.93,5,0.0
-tm:1AOZk4JGkeXPfxk,Tame Impala,BOK Center,Tulsa,OK,2027-02-10,2026-11-20,91.0,84.0,0.92,6,0.25
-tm:k7v17_9ZJG7yg_u,Sasha Keable,Irving Plaza Powered By Verizon 5G,New York,NY,2027-04-03,2026-11-20,307.0,283.0,0.92,6,0.2
-tm:Z7r9jZ1AA7UOY,Young the Giant,McMenamins Crystal Ballroom,Portland,OR,2026-12-13,2026-11-20,91.0,84.0,0.92,6,0.5
-tm:Z7r9jZ1AA7Fk3,almost monday,McMenamins Crystal Ballroom,Portland,OR,2026-12-16,2026-11-20,73.0,67.0,0.92,6,0.0
-sg:18610351,2000s Rave,Brooklyn Bowl Nashville,Nashville,TN,2027-01-29,2026-11-20,36.0,33.0,0.92,6,0.0
-tm:vvG1zZ_pUnmlds,Sasha Keable,Buckhead Theatre by SCANA Energy,Atlanta,GA,2027-04-14,2026-11-20,151.0,137.0,0.91,6,0.2
-sg:18732766,Sons of Cream,Bilheimer Capitol Theatre,Clearwater,FL,2027-01-22,2026-11-20,78.0,71.0,0.91,6,0.12
-tm:Z7r9jZ1AA7Mo3,Zack Fox,Mission Ballroom,Denver,CO,2027-03-05,2026-11-20,77.0,70.0,0.91,6,0.25
-tm:1AvfZ_pGkmH2D5-,Noga Erez,The Anthem,Washington,DC,2027-04-04,2026-11-20,81.0,74.0,0.91,6,0.25
-sg:18760644,Phoebe Bridgers,Kaseya Center,Miami,FL,2027-04-24,2026-11-20,118.0,107.0,0.91,6,0.12
-sg:18827093,Tori Kelly,Franklin Music Hall,Philadelphia,PA,2027-04-17,2026-11-20,66.0,60.0,0.91,6,0.12
-sg:18778957,Tori Kelly,The Truman - Kansas City,Kansas City,MO,2027-05-05,2026-11-20,69.0,63.0,0.91,6,0.14
-sg:18726705,Greensky Bluegrass,The Bellwether,Los Angeles,CA,2027-01-14,2026-11-20,69.0,63.0,0.91,6,0.0
-tm:17FZv0G62XAboS2,Sweet Baby James,VBC Mars Music Hall,Huntsville,AL,2027-01-16,2026-11-20,58.0,53.0,0.91,6,0.0
-sg:18836979,Aaron Branch,The Comedy Club at Duckworth's,Charlotte,NC,2027-03-05,2026-11-20,81.0,74.0,0.91,6,0.0
-tm:vvG1zZ_KwYl1sq,Lil Baby,State Farm Arena,Atlanta,GA,2026-12-05,2026-11-20,290.0,261.0,0.9,6,0.88
-sg:18786528,Noga Erez,The Novo by Microsoft,Los Angeles,CA,2027-03-12,2026-11-20,72.0,65.0,0.9,6,0.12
-sg:18784656,Kingfishr,Citizens House of Blues Boston,Boston,MA,2027-05-16,2026-11-20,134.0,117.0,0.87,6,0.14
-tm:Z7r9jZ1AA7_ae,Turnpike Troubadours,Red Rocks Amphitheatre,Morrison,CO,2027-05-13,2026-11-20,246.0,212.0,0.86,6,0.25
-tm:vv1AvZk4NGkdE3rwt,Cody Johnson,John Paul Jones Arena,Charlottesville,VA,2027-04-03,2026-11-20,138.0,119.0,0.86,6,0.88
-tm:G5eVZ_pJBrabr,Billy Strings,First Horizon Coliseum,Greensboro,NC,2027-04-23,2026-11-20,86.0,73.0,0.85,6,0.62
-tm:Z7r9jZ1AAA-Fg,Rascal Flatts,BYU-Idaho Center,Rexburg,ID,2027-03-20,2026-11-20,105.0,88.0,0.84,6,0.88
-sg:18822736,Le Youth,Meow Wolf - Santa Fe,Santa Fe,NM,2027-03-05,2026-11-20,70.0,58.0,0.83,6,0.0
-tm:vv17FZ_pGkRZLRgR,Phoebe Bridgers,Prudential Center,Newark,NJ,2027-03-16,2026-11-20,161.0,132.0,0.82,6,0.25
-sg:18755184,Billy Strings,Benchmark International Arena,Tampa,FL,2027-04-06,2026-11-20,99.0,77.0,0.78,6,0.12
-sg:18810865,9Million,Tower Theatre - Fresno,Fresno,CA,2026-12-10,2026-11-20,73.0,49.0,0.67,6,0.5
-tm:vvG1zZ_fQg7mxj,Lil Baby,State Farm Arena,Atlanta,GA,2026-12-04,2026-11-20,298.0,171.0,0.57,6,0.5
+sg:18389542,Dark Star Orchestra,War Memorial Auditorium-FL,Fort Lauderdale,FL,2026-12-03,2026-11-20,74.0,80.0,1.08,7,0.25
+tm:vvG1zZ_pwZ97kW,Moneybagg Yo,Columbus Civic Center,Columbus,GA,2026-12-19,2026-11-20,64.0,68.0,1.06,7,0.12
+tm:k7vGF_fSxRnwp,Zach Bryan,MetLife Stadium,East Rutherford,NJ,2027-05-14,2026-11-20,95.0,100.0,1.05,7,0.12
+sg:18761710,OMNOM,Shrine Expo Hall,Los Angeles,CA,2027-02-05,2026-11-20,76.0,79.0,1.04,7,0.0
+sg:18762810,Matthew Morrison,Lone Tree Arts Center,Lone Tree,CO,2027-01-15,2026-11-20,222.0,226.0,1.02,7,0.0
+sg:18762264,Decadent 80s Dance Party,McMenamins Crystal Ballroom,Portland,OR,2026-11-27,2026-11-20,20.0,20.0,1.0,7,0.38
+tm:G5viZ_plKWTt5,Garth Brooks,Simmons Bank Arena,North Little Rock,AR,2027-02-06,2026-11-20,81.0,81.0,1.0,7,0.25
+sg:18827093,Tori Kelly,Franklin Music Hall,Philadelphia,PA,2027-04-17,2026-11-20,66.0,66.0,1.0,7,0.25
+sg:18778957,Tori Kelly,The Truman - Kansas City,Kansas City,MO,2027-05-05,2026-11-20,69.0,69.0,1.0,7,0.14
+tm:17FZv0G62XAboS2,Sweet Baby James,VBC Mars Music Hall,Huntsville,AL,2027-01-16,2026-11-20,58.0,58.0,1.0,7,0.0
+sg:18263072,New Orleans Jazz and Heritage Festival,New Orleans Fair Grounds,New Orleans,LA,2027-04-22,2026-11-26,69.0,69.0,1.0,1,
+sg:18711214,Zach Bryan,Soldier Field,Chicago,IL,2027-05-07,2026-11-20,94.0,93.0,0.99,7,0.0
+sg:18732766,Sons of Cream,Bilheimer Capitol Theatre,Clearwater,FL,2027-01-22,2026-11-20,78.0,77.0,0.99,7,0.0
+tm:Z7r9jZ1AA7Mo3,Zack Fox,Mission Ballroom,Denver,CO,2027-03-05,2026-11-20,77.0,76.0,0.99,7,0.0
+sg:18665782,Jason Boland & The Stragglers,Cain's Ballroom - Tulsa,Tulsa,OK,2026-11-27,2026-11-20,41.0,40.0,0.98,7,0.25
+tm:Z7r9jZ1AAZpqt,Wyatt Flores,Cain's Ballroom,Tulsa,OK,2026-12-31,2026-11-20,176.0,173.0,0.98,7,0.0
+sg:18762262,Trampled by Turtles,McMenamins Crystal Ballroom,Portland,OR,2027-02-19,2026-11-20,90.0,88.0,0.98,7,0.0
+tm:1AOZk4JGkeXPfxk,Tame Impala,BOK Center,Tulsa,OK,2027-02-10,2026-11-20,91.0,88.0,0.97,7,0.75
+tm:Z7r9jZ1AA7UOY,Young the Giant,McMenamins Crystal Ballroom,Portland,OR,2026-12-13,2026-11-20,91.0,88.0,0.97,7,0.62
+sg:18760671,Deftones,Hollywood Bowl,Hollywood,CA,2027-05-18,2026-11-20,111.0,107.0,0.96,7,0.38
+sg:18645457,Evnne,Theatre of Living Arts,Philadelphia,PA,2027-01-26,2026-11-20,94.0,90.0,0.96,7,0.25
+tm:Z7r9jZ1AA7Fk3,almost monday,McMenamins Crystal Ballroom,Portland,OR,2026-12-16,2026-11-20,73.0,69.0,0.95,7,0.75
+sg:18754928,Widespread Panic,The Truth,Nashville,TN,2027-02-11,2026-11-20,162.0,153.0,0.94,7,0.25
+sg:18726705,Greensky Bluegrass,The Bellwether,Los Angeles,CA,2027-01-14,2026-11-20,69.0,65.0,0.94,7,0.0
+tm:rZ7HnEZ1AfaZa0,Hans Williams,Tipitina's,New Orleans,LA,2027-04-10,2026-11-20,49.0,46.0,0.94,7,0.0
+tm:vvG1HZ_pCJ9UGB,Hair Nation,Suquamish Clearwater Beach Rock Music & Sports Lounge,Suquamish,WA,2027-01-01,2026-11-20,30.0,28.0,0.93,7,0.0
+sg:18836979,Aaron Branch,The Comedy Club at Duckworth's,Charlotte,NC,2027-03-05,2026-11-20,81.0,75.0,0.93,7,0.0
+tm:vvG1zZ_pUnmlds,Sasha Keable,Buckhead Theatre by SCANA Energy,Atlanta,GA,2027-04-14,2026-11-20,151.0,139.0,0.92,7,0.5
+tm:G5viZ_ploiLrd,Garth Brooks,Simmons Bank Arena,North Little Rock,AR,2027-02-05,2026-11-20,206.0,190.0,0.92,7,0.5
+sg:18610351,2000s Rave,Brooklyn Bowl Nashville,Nashville,TN,2027-01-29,2026-11-20,36.0,33.0,0.92,7,0.0
+tm:k7v17_9ZJG7yg_u,Sasha Keable,Irving Plaza Powered By Verizon 5G,New York,NY,2027-04-03,2026-11-20,307.0,280.0,0.91,7,0.17
+tm:Z7r9jZ1AAA-Fg,Rascal Flatts,BYU-Idaho Center,Rexburg,ID,2027-03-20,2026-11-20,105.0,96.0,0.91,7,0.25
+tm:16dZZ_p3oG7m3PL,Feid,Barclays Center,Brooklyn,NY,2027-03-03,2026-11-20,93.0,84.0,0.9,7,0.25
+tm:Z7r9jZ1AA7oZ9,Shane Smith and the Saints,Cain's Ballroom,Tulsa,OK,2026-12-03,2026-11-20,61.0,55.0,0.9,7,0.0
+sg:18763089,Jon Pardi,The Truth,Nashville,TN,2026-12-17,2026-11-20,82.0,74.0,0.9,7,0.0
+tm:G5eVZ_pJBrabr,Billy Strings,First Horizon Coliseum,Greensboro,NC,2027-04-23,2026-11-20,86.0,77.0,0.9,7,0.38
+tm:Z7r9jZ1AA7_ae,Turnpike Troubadours,Red Rocks Amphitheatre,Morrison,CO,2027-05-13,2026-11-20,246.0,219.0,0.89,7,0.12
+tm:1AvfZ_pGkmH2D5-,Noga Erez,The Anthem,Washington,DC,2027-04-04,2026-11-20,81.0,72.0,0.89,7,0.12
+sg:18689173,Cyclops,Peabody's Nightclub,Virginia Beach,VA,2027-04-10,2026-11-20,44.0,39.0,0.89,7,0.0
+sg:18784656,Kingfishr,Citizens House of Blues Boston,Boston,MA,2027-05-16,2026-11-20,134.0,118.0,0.88,7,0.14
+sg:18786528,Noga Erez,The Novo by Microsoft,Los Angeles,CA,2027-03-12,2026-11-20,72.0,63.0,0.88,7,0.12
+sg:18760644,Phoebe Bridgers,Kaseya Center,Miami,FL,2027-04-24,2026-11-20,118.0,103.0,0.87,7,0.38
+tm:vv1AvZk4NGkdE3rwt,Cody Johnson,John Paul Jones Arena,Charlottesville,VA,2027-04-03,2026-11-20,138.0,116.0,0.84,7,1.0
+sg:18822736,Le Youth,Meow Wolf - Santa Fe,Santa Fe,NM,2027-03-05,2026-11-20,70.0,59.0,0.84,7,0.0
+sg:18755184,Billy Strings,Benchmark International Arena,Tampa,FL,2027-04-06,2026-11-20,99.0,80.0,0.81,7,0.5
+tm:vv17FZ_pGkRZLRgR,Phoebe Bridgers,Prudential Center,Newark,NJ,2027-03-16,2026-11-20,161.0,129.0,0.8,7,0.0
+tm:vvG1zZ_KwYl1sq,Lil Baby,State Farm Arena,Atlanta,GA,2026-12-05,2026-11-20,290.0,226.0,0.78,7,1.0
+sg:18810865,9Million,Tower Theatre - Fresno,Fresno,CA,2026-12-10,2026-11-20,73.0,48.0,0.66,7,0.25
+tm:vvG1zZ_fQg7mxj,Lil Baby,State Farm Arena,Atlanta,GA,2026-12-04,2026-11-20,298.0,150.0,0.5,7,0.38
+tm:G5vzZ_954pzlY,Ohgeesy,Rio Rancho Events Center,Rio Rancho,NM,2027-03-20,2026-11-21,176.0,71.0,0.4,6,1.0
